@@ -1,0 +1,6066 @@
+{
+  "countries": [
+    {
+      "id": "ct_1",
+      "name": "Hrvatska 1",
+      "code": "hr1",
+      "teams": [
+        {
+          "id": "tm_19",
+          "name": "Team Alpha 19",
+          "countryId": "ct_1",
+          "sportId": "sp_59"
+        },
+        {
+          "id": "tm_35",
+          "name": "Team Alpha 35",
+          "countryId": "ct_1",
+          "sportId": "sp_67"
+        }
+      ]
+    },
+    {
+      "id": "ct_2",
+      "name": "BiH 2",
+      "code": "bi2",
+      "teams": [
+        {
+          "id": "tm_52",
+          "name": "Team Alpha 52",
+          "countryId": "ct_2",
+          "sportId": "sp_84"
+        }
+      ]
+    },
+    {
+      "id": "ct_3",
+      "name": "Srbija 3",
+      "code": "sr3",
+      "teams": []
+    },
+    {
+      "id": "ct_4",
+      "name": "Njemačka 4",
+      "code": "nj4",
+      "teams": [
+        {
+          "id": "tm_88",
+          "name": "Team Alpha 88",
+          "countryId": "ct_4",
+          "sportId": "sp_85"
+        },
+        {
+          "id": "tm_89",
+          "name": "Team Alpha 89",
+          "countryId": "ct_4",
+          "sportId": "sp_72"
+        },
+        {
+          "id": "tm_132",
+          "name": "Team Alpha 132",
+          "countryId": "ct_4",
+          "sportId": "sp_87"
+        }
+      ]
+    },
+    {
+      "id": "ct_5",
+      "name": "Austrija 5",
+      "code": "au5",
+      "teams": [
+        {
+          "id": "tm_171",
+          "name": "Team Alpha 171",
+          "countryId": "ct_5",
+          "sportId": "sp_155"
+        }
+      ]
+    },
+    {
+      "id": "ct_6",
+      "name": "Slovenija 6",
+      "code": "sl6",
+      "teams": [
+        {
+          "id": "tm_62",
+          "name": "Team Alpha 62",
+          "countryId": "ct_6",
+          "sportId": "sp_85"
+        }
+      ]
+    },
+    {
+      "id": "ct_7",
+      "name": "Španjolska 7",
+      "code": "šp7",
+      "teams": [
+        {
+          "id": "tm_166",
+          "name": "Team Alpha 166",
+          "countryId": "ct_7",
+          "sportId": "sp_35"
+        }
+      ]
+    },
+    {
+      "id": "ct_8",
+      "name": "Italija 8",
+      "code": "it8",
+      "teams": [
+        {
+          "id": "tm_109",
+          "name": "Team Alpha 109",
+          "countryId": "ct_8",
+          "sportId": "sp_96"
+        }
+      ]
+    },
+    {
+      "id": "ct_9",
+      "name": "Francuska 9",
+      "code": "fr9",
+      "teams": [
+        {
+          "id": "tm_151",
+          "name": "Team Alpha 151",
+          "countryId": "ct_9",
+          "sportId": "sp_143"
+        }
+      ]
+    },
+    {
+      "id": "ct_10",
+      "name": "Engleska 10",
+      "code": "en10",
+      "teams": [
+        {
+          "id": "tm_168",
+          "name": "Team Alpha 168",
+          "countryId": "ct_10",
+          "sportId": "sp_155"
+        }
+      ]
+    },
+    {
+      "id": "ct_11",
+      "name": "Hrvatska 11",
+      "code": "hr11",
+      "teams": []
+    },
+    {
+      "id": "ct_12",
+      "name": "BiH 12",
+      "code": "bi12",
+      "teams": [
+        {
+          "id": "tm_54",
+          "name": "Team Alpha 54",
+          "countryId": "ct_12",
+          "sportId": "sp_40"
+        }
+      ]
+    },
+    {
+      "id": "ct_13",
+      "name": "Srbija 13",
+      "code": "sr13",
+      "teams": [
+        {
+          "id": "tm_93",
+          "name": "Team Alpha 93",
+          "countryId": "ct_13",
+          "sportId": "sp_197"
+        }
+      ]
+    },
+    {
+      "id": "ct_14",
+      "name": "Njemačka 14",
+      "code": "nj14",
+      "teams": [
+        {
+          "id": "tm_47",
+          "name": "Team Alpha 47",
+          "countryId": "ct_14",
+          "sportId": "sp_103"
+        },
+        {
+          "id": "tm_158",
+          "name": "Team Alpha 158",
+          "countryId": "ct_14",
+          "sportId": "sp_111"
+        }
+      ]
+    },
+    {
+      "id": "ct_15",
+      "name": "Austrija 15",
+      "code": "au15",
+      "teams": []
+    },
+    {
+      "id": "ct_16",
+      "name": "Slovenija 16",
+      "code": "sl16",
+      "teams": []
+    },
+    {
+      "id": "ct_17",
+      "name": "Španjolska 17",
+      "code": "šp17",
+      "teams": []
+    },
+    {
+      "id": "ct_18",
+      "name": "Italija 18",
+      "code": "it18",
+      "teams": []
+    },
+    {
+      "id": "ct_19",
+      "name": "Francuska 19",
+      "code": "fr19",
+      "teams": [
+        {
+          "id": "tm_119",
+          "name": "Team Alpha 119",
+          "countryId": "ct_19",
+          "sportId": "sp_92"
+        }
+      ]
+    },
+    {
+      "id": "ct_20",
+      "name": "Engleska 20",
+      "code": "en20",
+      "teams": [
+        {
+          "id": "tm_115",
+          "name": "Team Alpha 115",
+          "countryId": "ct_20",
+          "sportId": "sp_8"
+        }
+      ]
+    },
+    {
+      "id": "ct_21",
+      "name": "Hrvatska 21",
+      "code": "hr21",
+      "teams": []
+    },
+    {
+      "id": "ct_22",
+      "name": "BiH 22",
+      "code": "bi22",
+      "teams": [
+        {
+          "id": "tm_51",
+          "name": "Team Alpha 51",
+          "countryId": "ct_22",
+          "sportId": "sp_29"
+        },
+        {
+          "id": "tm_194",
+          "name": "Team Alpha 194",
+          "countryId": "ct_22",
+          "sportId": "sp_91"
+        }
+      ]
+    },
+    {
+      "id": "ct_23",
+      "name": "Srbija 23",
+      "code": "sr23",
+      "teams": []
+    },
+    {
+      "id": "ct_24",
+      "name": "Njemačka 24",
+      "code": "nj24",
+      "teams": [
+        {
+          "id": "tm_133",
+          "name": "Team Alpha 133",
+          "countryId": "ct_24",
+          "sportId": "sp_118"
+        }
+      ]
+    },
+    {
+      "id": "ct_25",
+      "name": "Austrija 25",
+      "code": "au25",
+      "teams": [
+        {
+          "id": "tm_140",
+          "name": "Team Alpha 140",
+          "countryId": "ct_25",
+          "sportId": "sp_110"
+        },
+        {
+          "id": "tm_190",
+          "name": "Team Alpha 190",
+          "countryId": "ct_25",
+          "sportId": "sp_77"
+        }
+      ]
+    },
+    {
+      "id": "ct_26",
+      "name": "Slovenija 26",
+      "code": "sl26",
+      "teams": []
+    },
+    {
+      "id": "ct_27",
+      "name": "Španjolska 27",
+      "code": "šp27",
+      "teams": [
+        {
+          "id": "tm_100",
+          "name": "Team Alpha 100",
+          "countryId": "ct_27",
+          "sportId": "sp_160"
+        },
+        {
+          "id": "tm_137",
+          "name": "Team Alpha 137",
+          "countryId": "ct_27",
+          "sportId": "sp_192"
+        }
+      ]
+    },
+    {
+      "id": "ct_28",
+      "name": "Italija 28",
+      "code": "it28",
+      "teams": [
+        {
+          "id": "tm_6",
+          "name": "Team Alpha 6",
+          "countryId": "ct_28",
+          "sportId": "sp_142"
+        },
+        {
+          "id": "tm_105",
+          "name": "Team Alpha 105",
+          "countryId": "ct_28",
+          "sportId": "sp_158"
+        }
+      ]
+    },
+    {
+      "id": "ct_29",
+      "name": "Francuska 29",
+      "code": "fr29",
+      "teams": []
+    },
+    {
+      "id": "ct_30",
+      "name": "Engleska 30",
+      "code": "en30",
+      "teams": []
+    },
+    {
+      "id": "ct_31",
+      "name": "Hrvatska 31",
+      "code": "hr31",
+      "teams": []
+    },
+    {
+      "id": "ct_32",
+      "name": "BiH 32",
+      "code": "bi32",
+      "teams": []
+    },
+    {
+      "id": "ct_33",
+      "name": "Srbija 33",
+      "code": "sr33",
+      "teams": [
+        {
+          "id": "tm_69",
+          "name": "Team Alpha 69",
+          "countryId": "ct_33",
+          "sportId": "sp_159"
+        }
+      ]
+    },
+    {
+      "id": "ct_34",
+      "name": "Njemačka 34",
+      "code": "nj34",
+      "teams": []
+    },
+    {
+      "id": "ct_35",
+      "name": "Austrija 35",
+      "code": "au35",
+      "teams": [
+        {
+          "id": "tm_79",
+          "name": "Team Alpha 79",
+          "countryId": "ct_35",
+          "sportId": "sp_112"
+        },
+        {
+          "id": "tm_106",
+          "name": "Team Alpha 106",
+          "countryId": "ct_35",
+          "sportId": "sp_113"
+        }
+      ]
+    },
+    {
+      "id": "ct_36",
+      "name": "Slovenija 36",
+      "code": "sl36",
+      "teams": [
+        {
+          "id": "tm_97",
+          "name": "Team Alpha 97",
+          "countryId": "ct_36",
+          "sportId": "sp_174"
+        }
+      ]
+    },
+    {
+      "id": "ct_37",
+      "name": "Španjolska 37",
+      "code": "šp37",
+      "teams": []
+    },
+    {
+      "id": "ct_38",
+      "name": "Italija 38",
+      "code": "it38",
+      "teams": [
+        {
+          "id": "tm_192",
+          "name": "Team Alpha 192",
+          "countryId": "ct_38",
+          "sportId": "sp_49"
+        }
+      ]
+    },
+    {
+      "id": "ct_39",
+      "name": "Francuska 39",
+      "code": "fr39",
+      "teams": []
+    },
+    {
+      "id": "ct_40",
+      "name": "Engleska 40",
+      "code": "en40",
+      "teams": [
+        {
+          "id": "tm_186",
+          "name": "Team Alpha 186",
+          "countryId": "ct_40",
+          "sportId": "sp_31"
+        }
+      ]
+    },
+    {
+      "id": "ct_41",
+      "name": "Hrvatska 41",
+      "code": "hr41",
+      "teams": [
+        {
+          "id": "tm_124",
+          "name": "Team Alpha 124",
+          "countryId": "ct_41",
+          "sportId": "sp_188"
+        },
+        {
+          "id": "tm_154",
+          "name": "Team Alpha 154",
+          "countryId": "ct_41",
+          "sportId": "sp_100"
+        }
+      ]
+    },
+    {
+      "id": "ct_42",
+      "name": "BiH 42",
+      "code": "bi42",
+      "teams": [
+        {
+          "id": "tm_114",
+          "name": "Team Alpha 114",
+          "countryId": "ct_42",
+          "sportId": "sp_93"
+        }
+      ]
+    },
+    {
+      "id": "ct_43",
+      "name": "Srbija 43",
+      "code": "sr43",
+      "teams": [
+        {
+          "id": "tm_180",
+          "name": "Team Alpha 180",
+          "countryId": "ct_43",
+          "sportId": "sp_119"
+        }
+      ]
+    },
+    {
+      "id": "ct_44",
+      "name": "Njemačka 44",
+      "code": "nj44",
+      "teams": [
+        {
+          "id": "tm_20",
+          "name": "Team Alpha 20",
+          "countryId": "ct_44",
+          "sportId": "sp_79"
+        },
+        {
+          "id": "tm_104",
+          "name": "Team Alpha 104",
+          "countryId": "ct_44",
+          "sportId": "sp_17"
+        },
+        {
+          "id": "tm_187",
+          "name": "Team Alpha 187",
+          "countryId": "ct_44",
+          "sportId": "sp_34"
+        }
+      ]
+    },
+    {
+      "id": "ct_45",
+      "name": "Austrija 45",
+      "code": "au45",
+      "teams": []
+    },
+    {
+      "id": "ct_46",
+      "name": "Slovenija 46",
+      "code": "sl46",
+      "teams": []
+    },
+    {
+      "id": "ct_47",
+      "name": "Španjolska 47",
+      "code": "šp47",
+      "teams": [
+        {
+          "id": "tm_134",
+          "name": "Team Alpha 134",
+          "countryId": "ct_47",
+          "sportId": "sp_95"
+        }
+      ]
+    },
+    {
+      "id": "ct_48",
+      "name": "Italija 48",
+      "code": "it48",
+      "teams": [
+        {
+          "id": "tm_53",
+          "name": "Team Alpha 53",
+          "countryId": "ct_48",
+          "sportId": "sp_57"
+        },
+        {
+          "id": "tm_56",
+          "name": "Team Alpha 56",
+          "countryId": "ct_48",
+          "sportId": "sp_117"
+        }
+      ]
+    },
+    {
+      "id": "ct_49",
+      "name": "Francuska 49",
+      "code": "fr49",
+      "teams": [
+        {
+          "id": "tm_24",
+          "name": "Team Alpha 24",
+          "countryId": "ct_49",
+          "sportId": "sp_52"
+        }
+      ]
+    },
+    {
+      "id": "ct_50",
+      "name": "Engleska 50",
+      "code": "en50",
+      "teams": []
+    },
+    {
+      "id": "ct_51",
+      "name": "Hrvatska 51",
+      "code": "hr51",
+      "teams": []
+    },
+    {
+      "id": "ct_52",
+      "name": "BiH 52",
+      "code": "bi52",
+      "teams": [
+        {
+          "id": "tm_21",
+          "name": "Team Alpha 21",
+          "countryId": "ct_52",
+          "sportId": "sp_73"
+        }
+      ]
+    },
+    {
+      "id": "ct_53",
+      "name": "Srbija 53",
+      "code": "sr53",
+      "teams": [
+        {
+          "id": "tm_178",
+          "name": "Team Alpha 178",
+          "countryId": "ct_53",
+          "sportId": "sp_186"
+        }
+      ]
+    },
+    {
+      "id": "ct_54",
+      "name": "Njemačka 54",
+      "code": "nj54",
+      "teams": [
+        {
+          "id": "tm_146",
+          "name": "Team Alpha 146",
+          "countryId": "ct_54",
+          "sportId": "sp_105"
+        }
+      ]
+    },
+    {
+      "id": "ct_55",
+      "name": "Austrija 55",
+      "code": "au55",
+      "teams": []
+    },
+    {
+      "id": "ct_56",
+      "name": "Slovenija 56",
+      "code": "sl56",
+      "teams": [
+        {
+          "id": "tm_160",
+          "name": "Team Alpha 160",
+          "countryId": "ct_56",
+          "sportId": "sp_60"
+        }
+      ]
+    },
+    {
+      "id": "ct_57",
+      "name": "Španjolska 57",
+      "code": "šp57",
+      "teams": [
+        {
+          "id": "tm_16",
+          "name": "Team Alpha 16",
+          "countryId": "ct_57",
+          "sportId": "sp_49"
+        },
+        {
+          "id": "tm_17",
+          "name": "Team Alpha 17",
+          "countryId": "ct_57",
+          "sportId": "sp_195"
+        },
+        {
+          "id": "tm_117",
+          "name": "Team Alpha 117",
+          "countryId": "ct_57",
+          "sportId": "sp_168"
+        },
+        {
+          "id": "tm_118",
+          "name": "Team Alpha 118",
+          "countryId": "ct_57",
+          "sportId": "sp_97"
+        }
+      ]
+    },
+    {
+      "id": "ct_58",
+      "name": "Italija 58",
+      "code": "it58",
+      "teams": [
+        {
+          "id": "tm_39",
+          "name": "Team Alpha 39",
+          "countryId": "ct_58",
+          "sportId": "sp_179"
+        }
+      ]
+    },
+    {
+      "id": "ct_59",
+      "name": "Francuska 59",
+      "code": "fr59",
+      "teams": []
+    },
+    {
+      "id": "ct_60",
+      "name": "Engleska 60",
+      "code": "en60",
+      "teams": [
+        {
+          "id": "tm_91",
+          "name": "Team Alpha 91",
+          "countryId": "ct_60",
+          "sportId": "sp_130"
+        }
+      ]
+    },
+    {
+      "id": "ct_61",
+      "name": "Hrvatska 61",
+      "code": "hr61",
+      "teams": []
+    },
+    {
+      "id": "ct_62",
+      "name": "BiH 62",
+      "code": "bi62",
+      "teams": []
+    },
+    {
+      "id": "ct_63",
+      "name": "Srbija 63",
+      "code": "sr63",
+      "teams": [
+        {
+          "id": "tm_49",
+          "name": "Team Alpha 49",
+          "countryId": "ct_63",
+          "sportId": "sp_21"
+        },
+        {
+          "id": "tm_71",
+          "name": "Team Alpha 71",
+          "countryId": "ct_63",
+          "sportId": "sp_28"
+        },
+        {
+          "id": "tm_184",
+          "name": "Team Alpha 184",
+          "countryId": "ct_63",
+          "sportId": "sp_49"
+        }
+      ]
+    },
+    {
+      "id": "ct_64",
+      "name": "Njemačka 64",
+      "code": "nj64",
+      "teams": []
+    },
+    {
+      "id": "ct_65",
+      "name": "Austrija 65",
+      "code": "au65",
+      "teams": []
+    },
+    {
+      "id": "ct_66",
+      "name": "Slovenija 66",
+      "code": "sl66",
+      "teams": [
+        {
+          "id": "tm_163",
+          "name": "Team Alpha 163",
+          "countryId": "ct_66",
+          "sportId": "sp_24"
+        }
+      ]
+    },
+    {
+      "id": "ct_67",
+      "name": "Španjolska 67",
+      "code": "šp67",
+      "teams": [
+        {
+          "id": "tm_112",
+          "name": "Team Alpha 112",
+          "countryId": "ct_67",
+          "sportId": "sp_103"
+        },
+        {
+          "id": "tm_159",
+          "name": "Team Alpha 159",
+          "countryId": "ct_67",
+          "sportId": "sp_110"
+        }
+      ]
+    },
+    {
+      "id": "ct_68",
+      "name": "Italija 68",
+      "code": "it68",
+      "teams": []
+    },
+    {
+      "id": "ct_69",
+      "name": "Francuska 69",
+      "code": "fr69",
+      "teams": [
+        {
+          "id": "tm_60",
+          "name": "Team Alpha 60",
+          "countryId": "ct_69",
+          "sportId": "sp_98"
+        },
+        {
+          "id": "tm_153",
+          "name": "Team Alpha 153",
+          "countryId": "ct_69",
+          "sportId": "sp_34"
+        }
+      ]
+    },
+    {
+      "id": "ct_70",
+      "name": "Engleska 70",
+      "code": "en70",
+      "teams": [
+        {
+          "id": "tm_41",
+          "name": "Team Alpha 41",
+          "countryId": "ct_70",
+          "sportId": "sp_137"
+        },
+        {
+          "id": "tm_80",
+          "name": "Team Alpha 80",
+          "countryId": "ct_70",
+          "sportId": "sp_160"
+        },
+        {
+          "id": "tm_125",
+          "name": "Team Alpha 125",
+          "countryId": "ct_70",
+          "sportId": "sp_93"
+        }
+      ]
+    },
+    {
+      "id": "ct_71",
+      "name": "Hrvatska 71",
+      "code": "hr71",
+      "teams": [
+        {
+          "id": "tm_26",
+          "name": "Team Alpha 26",
+          "countryId": "ct_71",
+          "sportId": "sp_27"
+        },
+        {
+          "id": "tm_75",
+          "name": "Team Alpha 75",
+          "countryId": "ct_71",
+          "sportId": "sp_67"
+        }
+      ]
+    },
+    {
+      "id": "ct_72",
+      "name": "BiH 72",
+      "code": "bi72",
+      "teams": [
+        {
+          "id": "tm_63",
+          "name": "Team Alpha 63",
+          "countryId": "ct_72",
+          "sportId": "sp_21"
+        },
+        {
+          "id": "tm_81",
+          "name": "Team Alpha 81",
+          "countryId": "ct_72",
+          "sportId": "sp_110"
+        },
+        {
+          "id": "tm_200",
+          "name": "Team Alpha 200",
+          "countryId": "ct_72",
+          "sportId": "sp_138"
+        }
+      ]
+    },
+    {
+      "id": "ct_73",
+      "name": "Srbija 73",
+      "code": "sr73",
+      "teams": [
+        {
+          "id": "tm_5",
+          "name": "Team Alpha 5",
+          "countryId": "ct_73",
+          "sportId": "sp_142"
+        }
+      ]
+    },
+    {
+      "id": "ct_74",
+      "name": "Njemačka 74",
+      "code": "nj74",
+      "teams": [
+        {
+          "id": "tm_72",
+          "name": "Team Alpha 72",
+          "countryId": "ct_74",
+          "sportId": "sp_186"
+        }
+      ]
+    },
+    {
+      "id": "ct_75",
+      "name": "Austrija 75",
+      "code": "au75",
+      "teams": []
+    },
+    {
+      "id": "ct_76",
+      "name": "Slovenija 76",
+      "code": "sl76",
+      "teams": []
+    },
+    {
+      "id": "ct_77",
+      "name": "Španjolska 77",
+      "code": "šp77",
+      "teams": []
+    },
+    {
+      "id": "ct_78",
+      "name": "Italija 78",
+      "code": "it78",
+      "teams": []
+    },
+    {
+      "id": "ct_79",
+      "name": "Francuska 79",
+      "code": "fr79",
+      "teams": []
+    },
+    {
+      "id": "ct_80",
+      "name": "Engleska 80",
+      "code": "en80",
+      "teams": []
+    },
+    {
+      "id": "ct_81",
+      "name": "Hrvatska 81",
+      "code": "hr81",
+      "teams": [
+        {
+          "id": "tm_92",
+          "name": "Team Alpha 92",
+          "countryId": "ct_81",
+          "sportId": "sp_137"
+        },
+        {
+          "id": "tm_148",
+          "name": "Team Alpha 148",
+          "countryId": "ct_81",
+          "sportId": "sp_154"
+        }
+      ]
+    },
+    {
+      "id": "ct_82",
+      "name": "BiH 82",
+      "code": "bi82",
+      "teams": [
+        {
+          "id": "tm_59",
+          "name": "Team Alpha 59",
+          "countryId": "ct_82",
+          "sportId": "sp_6"
+        },
+        {
+          "id": "tm_108",
+          "name": "Team Alpha 108",
+          "countryId": "ct_82",
+          "sportId": "sp_200"
+        }
+      ]
+    },
+    {
+      "id": "ct_83",
+      "name": "Srbija 83",
+      "code": "sr83",
+      "teams": []
+    },
+    {
+      "id": "ct_84",
+      "name": "Njemačka 84",
+      "code": "nj84",
+      "teams": [
+        {
+          "id": "tm_139",
+          "name": "Team Alpha 139",
+          "countryId": "ct_84",
+          "sportId": "sp_125"
+        }
+      ]
+    },
+    {
+      "id": "ct_85",
+      "name": "Austrija 85",
+      "code": "au85",
+      "teams": [
+        {
+          "id": "tm_126",
+          "name": "Team Alpha 126",
+          "countryId": "ct_85",
+          "sportId": "sp_67"
+        }
+      ]
+    },
+    {
+      "id": "ct_86",
+      "name": "Slovenija 86",
+      "code": "sl86",
+      "teams": [
+        {
+          "id": "tm_40",
+          "name": "Team Alpha 40",
+          "countryId": "ct_86",
+          "sportId": "sp_136"
+        },
+        {
+          "id": "tm_96",
+          "name": "Team Alpha 96",
+          "countryId": "ct_86",
+          "sportId": "sp_136"
+        }
+      ]
+    },
+    {
+      "id": "ct_87",
+      "name": "Španjolska 87",
+      "code": "šp87",
+      "teams": [
+        {
+          "id": "tm_152",
+          "name": "Team Alpha 152",
+          "countryId": "ct_87",
+          "sportId": "sp_175"
+        },
+        {
+          "id": "tm_188",
+          "name": "Team Alpha 188",
+          "countryId": "ct_87",
+          "sportId": "sp_138"
+        }
+      ]
+    },
+    {
+      "id": "ct_88",
+      "name": "Italija 88",
+      "code": "it88",
+      "teams": [
+        {
+          "id": "tm_102",
+          "name": "Team Alpha 102",
+          "countryId": "ct_88",
+          "sportId": "sp_3"
+        }
+      ]
+    },
+    {
+      "id": "ct_89",
+      "name": "Francuska 89",
+      "code": "fr89",
+      "teams": []
+    },
+    {
+      "id": "ct_90",
+      "name": "Engleska 90",
+      "code": "en90",
+      "teams": []
+    },
+    {
+      "id": "ct_91",
+      "name": "Hrvatska 91",
+      "code": "hr91",
+      "teams": [
+        {
+          "id": "tm_185",
+          "name": "Team Alpha 185",
+          "countryId": "ct_91",
+          "sportId": "sp_109"
+        }
+      ]
+    },
+    {
+      "id": "ct_92",
+      "name": "BiH 92",
+      "code": "bi92",
+      "teams": [
+        {
+          "id": "tm_157",
+          "name": "Team Alpha 157",
+          "countryId": "ct_92",
+          "sportId": "sp_28"
+        }
+      ]
+    },
+    {
+      "id": "ct_93",
+      "name": "Srbija 93",
+      "code": "sr93",
+      "teams": [
+        {
+          "id": "tm_85",
+          "name": "Team Alpha 85",
+          "countryId": "ct_93",
+          "sportId": "sp_129"
+        },
+        {
+          "id": "tm_101",
+          "name": "Team Alpha 101",
+          "countryId": "ct_93",
+          "sportId": "sp_193"
+        }
+      ]
+    },
+    {
+      "id": "ct_94",
+      "name": "Njemačka 94",
+      "code": "nj94",
+      "teams": [
+        {
+          "id": "tm_30",
+          "name": "Team Alpha 30",
+          "countryId": "ct_94",
+          "sportId": "sp_135"
+        }
+      ]
+    },
+    {
+      "id": "ct_95",
+      "name": "Austrija 95",
+      "code": "au95",
+      "teams": [
+        {
+          "id": "tm_10",
+          "name": "Team Alpha 10",
+          "countryId": "ct_95",
+          "sportId": "sp_5"
+        },
+        {
+          "id": "tm_42",
+          "name": "Team Alpha 42",
+          "countryId": "ct_95",
+          "sportId": "sp_28"
+        },
+        {
+          "id": "tm_149",
+          "name": "Team Alpha 149",
+          "countryId": "ct_95",
+          "sportId": "sp_7"
+        }
+      ]
+    },
+    {
+      "id": "ct_96",
+      "name": "Slovenija 96",
+      "code": "sl96",
+      "teams": []
+    },
+    {
+      "id": "ct_97",
+      "name": "Španjolska 97",
+      "code": "šp97",
+      "teams": []
+    },
+    {
+      "id": "ct_98",
+      "name": "Italija 98",
+      "code": "it98",
+      "teams": []
+    },
+    {
+      "id": "ct_99",
+      "name": "Francuska 99",
+      "code": "fr99",
+      "teams": []
+    },
+    {
+      "id": "ct_100",
+      "name": "Engleska 100",
+      "code": "en100",
+      "teams": []
+    },
+    {
+      "id": "ct_101",
+      "name": "Hrvatska 101",
+      "code": "hr101",
+      "teams": [
+        {
+          "id": "tm_25",
+          "name": "Team Alpha 25",
+          "countryId": "ct_101",
+          "sportId": "sp_84"
+        },
+        {
+          "id": "tm_83",
+          "name": "Team Alpha 83",
+          "countryId": "ct_101",
+          "sportId": "sp_74"
+        },
+        {
+          "id": "tm_128",
+          "name": "Team Alpha 128",
+          "countryId": "ct_101",
+          "sportId": "sp_51"
+        }
+      ]
+    },
+    {
+      "id": "ct_102",
+      "name": "BiH 102",
+      "code": "bi102",
+      "teams": [
+        {
+          "id": "tm_116",
+          "name": "Team Alpha 116",
+          "countryId": "ct_102",
+          "sportId": "sp_2"
+        },
+        {
+          "id": "tm_138",
+          "name": "Team Alpha 138",
+          "countryId": "ct_102",
+          "sportId": "sp_106"
+        },
+        {
+          "id": "tm_195",
+          "name": "Team Alpha 195",
+          "countryId": "ct_102",
+          "sportId": "sp_11"
+        }
+      ]
+    },
+    {
+      "id": "ct_103",
+      "name": "Srbija 103",
+      "code": "sr103",
+      "teams": [
+        {
+          "id": "tm_3",
+          "name": "Team Alpha 3",
+          "countryId": "ct_103",
+          "sportId": "sp_26"
+        },
+        {
+          "id": "tm_34",
+          "name": "Team Alpha 34",
+          "countryId": "ct_103",
+          "sportId": "sp_101"
+        },
+        {
+          "id": "tm_129",
+          "name": "Team Alpha 129",
+          "countryId": "ct_103",
+          "sportId": "sp_181"
+        }
+      ]
+    },
+    {
+      "id": "ct_104",
+      "name": "Njemačka 104",
+      "code": "nj104",
+      "teams": [
+        {
+          "id": "tm_31",
+          "name": "Team Alpha 31",
+          "countryId": "ct_104",
+          "sportId": "sp_132"
+        },
+        {
+          "id": "tm_44",
+          "name": "Team Alpha 44",
+          "countryId": "ct_104",
+          "sportId": "sp_99"
+        }
+      ]
+    },
+    {
+      "id": "ct_105",
+      "name": "Austrija 105",
+      "code": "au105",
+      "teams": [
+        {
+          "id": "tm_84",
+          "name": "Team Alpha 84",
+          "countryId": "ct_105",
+          "sportId": "sp_172"
+        },
+        {
+          "id": "tm_167",
+          "name": "Team Alpha 167",
+          "countryId": "ct_105",
+          "sportId": "sp_92"
+        }
+      ]
+    },
+    {
+      "id": "ct_106",
+      "name": "Slovenija 106",
+      "code": "sl106",
+      "teams": [
+        {
+          "id": "tm_199",
+          "name": "Team Alpha 199",
+          "countryId": "ct_106",
+          "sportId": "sp_86"
+        }
+      ]
+    },
+    {
+      "id": "ct_107",
+      "name": "Španjolska 107",
+      "code": "šp107",
+      "teams": [
+        {
+          "id": "tm_111",
+          "name": "Team Alpha 111",
+          "countryId": "ct_107",
+          "sportId": "sp_150"
+        },
+        {
+          "id": "tm_143",
+          "name": "Team Alpha 143",
+          "countryId": "ct_107",
+          "sportId": "sp_161"
+        },
+        {
+          "id": "tm_172",
+          "name": "Team Alpha 172",
+          "countryId": "ct_107",
+          "sportId": "sp_114"
+        },
+        {
+          "id": "tm_183",
+          "name": "Team Alpha 183",
+          "countryId": "ct_107",
+          "sportId": "sp_31"
+        }
+      ]
+    },
+    {
+      "id": "ct_108",
+      "name": "Italija 108",
+      "code": "it108",
+      "teams": [
+        {
+          "id": "tm_113",
+          "name": "Team Alpha 113",
+          "countryId": "ct_108",
+          "sportId": "sp_83"
+        }
+      ]
+    },
+    {
+      "id": "ct_109",
+      "name": "Francuska 109",
+      "code": "fr109",
+      "teams": [
+        {
+          "id": "tm_179",
+          "name": "Team Alpha 179",
+          "countryId": "ct_109",
+          "sportId": "sp_146"
+        }
+      ]
+    },
+    {
+      "id": "ct_110",
+      "name": "Engleska 110",
+      "code": "en110",
+      "teams": []
+    },
+    {
+      "id": "ct_111",
+      "name": "Hrvatska 111",
+      "code": "hr111",
+      "teams": [
+        {
+          "id": "tm_36",
+          "name": "Team Alpha 36",
+          "countryId": "ct_111",
+          "sportId": "sp_92"
+        }
+      ]
+    },
+    {
+      "id": "ct_112",
+      "name": "BiH 112",
+      "code": "bi112",
+      "teams": [
+        {
+          "id": "tm_73",
+          "name": "Team Alpha 73",
+          "countryId": "ct_112",
+          "sportId": "sp_89"
+        }
+      ]
+    },
+    {
+      "id": "ct_113",
+      "name": "Srbija 113",
+      "code": "sr113",
+      "teams": [
+        {
+          "id": "tm_193",
+          "name": "Team Alpha 193",
+          "countryId": "ct_113",
+          "sportId": "sp_198"
+        }
+      ]
+    },
+    {
+      "id": "ct_114",
+      "name": "Njemačka 114",
+      "code": "nj114",
+      "teams": []
+    },
+    {
+      "id": "ct_115",
+      "name": "Austrija 115",
+      "code": "au115",
+      "teams": []
+    },
+    {
+      "id": "ct_116",
+      "name": "Slovenija 116",
+      "code": "sl116",
+      "teams": [
+        {
+          "id": "tm_98",
+          "name": "Team Alpha 98",
+          "countryId": "ct_116",
+          "sportId": "sp_60"
+        }
+      ]
+    },
+    {
+      "id": "ct_117",
+      "name": "Španjolska 117",
+      "code": "šp117",
+      "teams": [
+        {
+          "id": "tm_14",
+          "name": "Team Alpha 14",
+          "countryId": "ct_117",
+          "sportId": "sp_64"
+        },
+        {
+          "id": "tm_144",
+          "name": "Team Alpha 144",
+          "countryId": "ct_117",
+          "sportId": "sp_90"
+        }
+      ]
+    },
+    {
+      "id": "ct_118",
+      "name": "Italija 118",
+      "code": "it118",
+      "teams": [
+        {
+          "id": "tm_176",
+          "name": "Team Alpha 176",
+          "countryId": "ct_118",
+          "sportId": "sp_189"
+        }
+      ]
+    },
+    {
+      "id": "ct_119",
+      "name": "Francuska 119",
+      "code": "fr119",
+      "teams": []
+    },
+    {
+      "id": "ct_120",
+      "name": "Engleska 120",
+      "code": "en120",
+      "teams": [
+        {
+          "id": "tm_161",
+          "name": "Team Alpha 161",
+          "countryId": "ct_120",
+          "sportId": "sp_164"
+        },
+        {
+          "id": "tm_196",
+          "name": "Team Alpha 196",
+          "countryId": "ct_120",
+          "sportId": "sp_183"
+        }
+      ]
+    },
+    {
+      "id": "ct_121",
+      "name": "Hrvatska 121",
+      "code": "hr121",
+      "teams": [
+        {
+          "id": "tm_99",
+          "name": "Team Alpha 99",
+          "countryId": "ct_121",
+          "sportId": "sp_133"
+        }
+      ]
+    },
+    {
+      "id": "ct_122",
+      "name": "BiH 122",
+      "code": "bi122",
+      "teams": [
+        {
+          "id": "tm_4",
+          "name": "Team Alpha 4",
+          "countryId": "ct_122",
+          "sportId": "sp_152"
+        }
+      ]
+    },
+    {
+      "id": "ct_123",
+      "name": "Srbija 123",
+      "code": "sr123",
+      "teams": [
+        {
+          "id": "tm_173",
+          "name": "Team Alpha 173",
+          "countryId": "ct_123",
+          "sportId": "sp_196"
+        },
+        {
+          "id": "tm_182",
+          "name": "Team Alpha 182",
+          "countryId": "ct_123",
+          "sportId": "sp_26"
+        }
+      ]
+    },
+    {
+      "id": "ct_124",
+      "name": "Njemačka 124",
+      "code": "nj124",
+      "teams": []
+    },
+    {
+      "id": "ct_125",
+      "name": "Austrija 125",
+      "code": "au125",
+      "teams": [
+        {
+          "id": "tm_70",
+          "name": "Team Alpha 70",
+          "countryId": "ct_125",
+          "sportId": "sp_45"
+        }
+      ]
+    },
+    {
+      "id": "ct_126",
+      "name": "Slovenija 126",
+      "code": "sl126",
+      "teams": [
+        {
+          "id": "tm_141",
+          "name": "Team Alpha 141",
+          "countryId": "ct_126",
+          "sportId": "sp_55"
+        }
+      ]
+    },
+    {
+      "id": "ct_127",
+      "name": "Španjolska 127",
+      "code": "šp127",
+      "teams": [
+        {
+          "id": "tm_77",
+          "name": "Team Alpha 77",
+          "countryId": "ct_127",
+          "sportId": "sp_145"
+        },
+        {
+          "id": "tm_145",
+          "name": "Team Alpha 145",
+          "countryId": "ct_127",
+          "sportId": "sp_87"
+        }
+      ]
+    },
+    {
+      "id": "ct_128",
+      "name": "Italija 128",
+      "code": "it128",
+      "teams": [
+        {
+          "id": "tm_11",
+          "name": "Team Alpha 11",
+          "countryId": "ct_128",
+          "sportId": "sp_154"
+        },
+        {
+          "id": "tm_38",
+          "name": "Team Alpha 38",
+          "countryId": "ct_128",
+          "sportId": "sp_169"
+        }
+      ]
+    },
+    {
+      "id": "ct_129",
+      "name": "Francuska 129",
+      "code": "fr129",
+      "teams": [
+        {
+          "id": "tm_76",
+          "name": "Team Alpha 76",
+          "countryId": "ct_129",
+          "sportId": "sp_102"
+        }
+      ]
+    },
+    {
+      "id": "ct_130",
+      "name": "Engleska 130",
+      "code": "en130",
+      "teams": []
+    },
+    {
+      "id": "ct_131",
+      "name": "Hrvatska 131",
+      "code": "hr131",
+      "teams": [
+        {
+          "id": "tm_86",
+          "name": "Team Alpha 86",
+          "countryId": "ct_131",
+          "sportId": "sp_25"
+        }
+      ]
+    },
+    {
+      "id": "ct_132",
+      "name": "BiH 132",
+      "code": "bi132",
+      "teams": [
+        {
+          "id": "tm_130",
+          "name": "Team Alpha 130",
+          "countryId": "ct_132",
+          "sportId": "sp_44"
+        }
+      ]
+    },
+    {
+      "id": "ct_133",
+      "name": "Srbija 133",
+      "code": "sr133",
+      "teams": [
+        {
+          "id": "tm_68",
+          "name": "Team Alpha 68",
+          "countryId": "ct_133",
+          "sportId": "sp_115"
+        }
+      ]
+    },
+    {
+      "id": "ct_134",
+      "name": "Njemačka 134",
+      "code": "nj134",
+      "teams": [
+        {
+          "id": "tm_82",
+          "name": "Team Alpha 82",
+          "countryId": "ct_134",
+          "sportId": "sp_168"
+        }
+      ]
+    },
+    {
+      "id": "ct_135",
+      "name": "Austrija 135",
+      "code": "au135",
+      "teams": [
+        {
+          "id": "tm_110",
+          "name": "Team Alpha 110",
+          "countryId": "ct_135",
+          "sportId": "sp_181"
+        }
+      ]
+    },
+    {
+      "id": "ct_136",
+      "name": "Slovenija 136",
+      "code": "sl136",
+      "teams": [
+        {
+          "id": "tm_95",
+          "name": "Team Alpha 95",
+          "countryId": "ct_136",
+          "sportId": "sp_180"
+        }
+      ]
+    },
+    {
+      "id": "ct_137",
+      "name": "Španjolska 137",
+      "code": "šp137",
+      "teams": []
+    },
+    {
+      "id": "ct_138",
+      "name": "Italija 138",
+      "code": "it138",
+      "teams": [
+        {
+          "id": "tm_32",
+          "name": "Team Alpha 32",
+          "countryId": "ct_138",
+          "sportId": "sp_16"
+        }
+      ]
+    },
+    {
+      "id": "ct_139",
+      "name": "Francuska 139",
+      "code": "fr139",
+      "teams": [
+        {
+          "id": "tm_58",
+          "name": "Team Alpha 58",
+          "countryId": "ct_139",
+          "sportId": "sp_1"
+        },
+        {
+          "id": "tm_78",
+          "name": "Team Alpha 78",
+          "countryId": "ct_139",
+          "sportId": "sp_109"
+        },
+        {
+          "id": "tm_120",
+          "name": "Team Alpha 120",
+          "countryId": "ct_139",
+          "sportId": "sp_131"
+        }
+      ]
+    },
+    {
+      "id": "ct_140",
+      "name": "Engleska 140",
+      "code": "en140",
+      "teams": [
+        {
+          "id": "tm_155",
+          "name": "Team Alpha 155",
+          "countryId": "ct_140",
+          "sportId": "sp_96"
+        }
+      ]
+    },
+    {
+      "id": "ct_141",
+      "name": "Hrvatska 141",
+      "code": "hr141",
+      "teams": []
+    },
+    {
+      "id": "ct_142",
+      "name": "BiH 142",
+      "code": "bi142",
+      "teams": [
+        {
+          "id": "tm_64",
+          "name": "Team Alpha 64",
+          "countryId": "ct_142",
+          "sportId": "sp_104"
+        },
+        {
+          "id": "tm_162",
+          "name": "Team Alpha 162",
+          "countryId": "ct_142",
+          "sportId": "sp_11"
+        }
+      ]
+    },
+    {
+      "id": "ct_143",
+      "name": "Srbija 143",
+      "code": "sr143",
+      "teams": [
+        {
+          "id": "tm_122",
+          "name": "Team Alpha 122",
+          "countryId": "ct_143",
+          "sportId": "sp_74"
+        }
+      ]
+    },
+    {
+      "id": "ct_144",
+      "name": "Njemačka 144",
+      "code": "nj144",
+      "teams": []
+    },
+    {
+      "id": "ct_145",
+      "name": "Austrija 145",
+      "code": "au145",
+      "teams": [
+        {
+          "id": "tm_28",
+          "name": "Team Alpha 28",
+          "countryId": "ct_145",
+          "sportId": "sp_117"
+        },
+        {
+          "id": "tm_48",
+          "name": "Team Alpha 48",
+          "countryId": "ct_145",
+          "sportId": "sp_137"
+        }
+      ]
+    },
+    {
+      "id": "ct_146",
+      "name": "Slovenija 146",
+      "code": "sl146",
+      "teams": []
+    },
+    {
+      "id": "ct_147",
+      "name": "Španjolska 147",
+      "code": "šp147",
+      "teams": []
+    },
+    {
+      "id": "ct_148",
+      "name": "Italija 148",
+      "code": "it148",
+      "teams": [
+        {
+          "id": "tm_175",
+          "name": "Team Alpha 175",
+          "countryId": "ct_148",
+          "sportId": "sp_26"
+        }
+      ]
+    },
+    {
+      "id": "ct_149",
+      "name": "Francuska 149",
+      "code": "fr149",
+      "teams": []
+    },
+    {
+      "id": "ct_150",
+      "name": "Engleska 150",
+      "code": "en150",
+      "teams": [
+        {
+          "id": "tm_18",
+          "name": "Team Alpha 18",
+          "countryId": "ct_150",
+          "sportId": "sp_199"
+        },
+        {
+          "id": "tm_43",
+          "name": "Team Alpha 43",
+          "countryId": "ct_150",
+          "sportId": "sp_111"
+        }
+      ]
+    },
+    {
+      "id": "ct_151",
+      "name": "Hrvatska 151",
+      "code": "hr151",
+      "teams": [
+        {
+          "id": "tm_123",
+          "name": "Team Alpha 123",
+          "countryId": "ct_151",
+          "sportId": "sp_106"
+        }
+      ]
+    },
+    {
+      "id": "ct_152",
+      "name": "BiH 152",
+      "code": "bi152",
+      "teams": []
+    },
+    {
+      "id": "ct_153",
+      "name": "Srbija 153",
+      "code": "sr153",
+      "teams": []
+    },
+    {
+      "id": "ct_154",
+      "name": "Njemačka 154",
+      "code": "nj154",
+      "teams": [
+        {
+          "id": "tm_65",
+          "name": "Team Alpha 65",
+          "countryId": "ct_154",
+          "sportId": "sp_101"
+        }
+      ]
+    },
+    {
+      "id": "ct_155",
+      "name": "Austrija 155",
+      "code": "au155",
+      "teams": []
+    },
+    {
+      "id": "ct_156",
+      "name": "Slovenija 156",
+      "code": "sl156",
+      "teams": []
+    },
+    {
+      "id": "ct_157",
+      "name": "Španjolska 157",
+      "code": "šp157",
+      "teams": []
+    },
+    {
+      "id": "ct_158",
+      "name": "Italija 158",
+      "code": "it158",
+      "teams": []
+    },
+    {
+      "id": "ct_159",
+      "name": "Francuska 159",
+      "code": "fr159",
+      "teams": [
+        {
+          "id": "tm_74",
+          "name": "Team Alpha 74",
+          "countryId": "ct_159",
+          "sportId": "sp_183"
+        }
+      ]
+    },
+    {
+      "id": "ct_160",
+      "name": "Engleska 160",
+      "code": "en160",
+      "teams": [
+        {
+          "id": "tm_37",
+          "name": "Team Alpha 37",
+          "countryId": "ct_160",
+          "sportId": "sp_161"
+        },
+        {
+          "id": "tm_94",
+          "name": "Team Alpha 94",
+          "countryId": "ct_160",
+          "sportId": "sp_190"
+        }
+      ]
+    },
+    {
+      "id": "ct_161",
+      "name": "Hrvatska 161",
+      "code": "hr161",
+      "teams": [
+        {
+          "id": "tm_1",
+          "name": "Team Alpha 1",
+          "countryId": "ct_161",
+          "sportId": "sp_130"
+        }
+      ]
+    },
+    {
+      "id": "ct_162",
+      "name": "BiH 162",
+      "code": "bi162",
+      "teams": []
+    },
+    {
+      "id": "ct_163",
+      "name": "Srbija 163",
+      "code": "sr163",
+      "teams": [
+        {
+          "id": "tm_197",
+          "name": "Team Alpha 197",
+          "countryId": "ct_163",
+          "sportId": "sp_29"
+        },
+        {
+          "id": "tm_198",
+          "name": "Team Alpha 198",
+          "countryId": "ct_163",
+          "sportId": "sp_100"
+        }
+      ]
+    },
+    {
+      "id": "ct_164",
+      "name": "Njemačka 164",
+      "code": "nj164",
+      "teams": []
+    },
+    {
+      "id": "ct_165",
+      "name": "Austrija 165",
+      "code": "au165",
+      "teams": [
+        {
+          "id": "tm_2",
+          "name": "Team Alpha 2",
+          "countryId": "ct_165",
+          "sportId": "sp_57"
+        }
+      ]
+    },
+    {
+      "id": "ct_166",
+      "name": "Slovenija 166",
+      "code": "sl166",
+      "teams": [
+        {
+          "id": "tm_13",
+          "name": "Team Alpha 13",
+          "countryId": "ct_166",
+          "sportId": "sp_162"
+        },
+        {
+          "id": "tm_61",
+          "name": "Team Alpha 61",
+          "countryId": "ct_166",
+          "sportId": "sp_150"
+        },
+        {
+          "id": "tm_181",
+          "name": "Team Alpha 181",
+          "countryId": "ct_166",
+          "sportId": "sp_90"
+        }
+      ]
+    },
+    {
+      "id": "ct_167",
+      "name": "Španjolska 167",
+      "code": "šp167",
+      "teams": [
+        {
+          "id": "tm_12",
+          "name": "Team Alpha 12",
+          "countryId": "ct_167",
+          "sportId": "sp_41"
+        },
+        {
+          "id": "tm_150",
+          "name": "Team Alpha 150",
+          "countryId": "ct_167",
+          "sportId": "sp_64"
+        }
+      ]
+    },
+    {
+      "id": "ct_168",
+      "name": "Italija 168",
+      "code": "it168",
+      "teams": [
+        {
+          "id": "tm_22",
+          "name": "Team Alpha 22",
+          "countryId": "ct_168",
+          "sportId": "sp_81"
+        },
+        {
+          "id": "tm_136",
+          "name": "Team Alpha 136",
+          "countryId": "ct_168",
+          "sportId": "sp_142"
+        }
+      ]
+    },
+    {
+      "id": "ct_169",
+      "name": "Francuska 169",
+      "code": "fr169",
+      "teams": [
+        {
+          "id": "tm_164",
+          "name": "Team Alpha 164",
+          "countryId": "ct_169",
+          "sportId": "sp_159"
+        }
+      ]
+    },
+    {
+      "id": "ct_170",
+      "name": "Engleska 170",
+      "code": "en170",
+      "teams": [
+        {
+          "id": "tm_107",
+          "name": "Team Alpha 107",
+          "countryId": "ct_170",
+          "sportId": "sp_68"
+        },
+        {
+          "id": "tm_121",
+          "name": "Team Alpha 121",
+          "countryId": "ct_170",
+          "sportId": "sp_76"
+        }
+      ]
+    },
+    {
+      "id": "ct_171",
+      "name": "Hrvatska 171",
+      "code": "hr171",
+      "teams": []
+    },
+    {
+      "id": "ct_172",
+      "name": "BiH 172",
+      "code": "bi172",
+      "teams": []
+    },
+    {
+      "id": "ct_173",
+      "name": "Srbija 173",
+      "code": "sr173",
+      "teams": [
+        {
+          "id": "tm_177",
+          "name": "Team Alpha 177",
+          "countryId": "ct_173",
+          "sportId": "sp_154"
+        }
+      ]
+    },
+    {
+      "id": "ct_174",
+      "name": "Njemačka 174",
+      "code": "nj174",
+      "teams": [
+        {
+          "id": "tm_55",
+          "name": "Team Alpha 55",
+          "countryId": "ct_174",
+          "sportId": "sp_166"
+        }
+      ]
+    },
+    {
+      "id": "ct_175",
+      "name": "Austrija 175",
+      "code": "au175",
+      "teams": [
+        {
+          "id": "tm_189",
+          "name": "Team Alpha 189",
+          "countryId": "ct_175",
+          "sportId": "sp_51"
+        }
+      ]
+    },
+    {
+      "id": "ct_176",
+      "name": "Slovenija 176",
+      "code": "sl176",
+      "teams": [
+        {
+          "id": "tm_131",
+          "name": "Team Alpha 131",
+          "countryId": "ct_176",
+          "sportId": "sp_19"
+        }
+      ]
+    },
+    {
+      "id": "ct_177",
+      "name": "Španjolska 177",
+      "code": "šp177",
+      "teams": [
+        {
+          "id": "tm_27",
+          "name": "Team Alpha 27",
+          "countryId": "ct_177",
+          "sportId": "sp_148"
+        },
+        {
+          "id": "tm_46",
+          "name": "Team Alpha 46",
+          "countryId": "ct_177",
+          "sportId": "sp_129"
+        },
+        {
+          "id": "tm_67",
+          "name": "Team Alpha 67",
+          "countryId": "ct_177",
+          "sportId": "sp_4"
+        },
+        {
+          "id": "tm_156",
+          "name": "Team Alpha 156",
+          "countryId": "ct_177",
+          "sportId": "sp_22"
+        },
+        {
+          "id": "tm_174",
+          "name": "Team Alpha 174",
+          "countryId": "ct_177",
+          "sportId": "sp_196"
+        }
+      ]
+    },
+    {
+      "id": "ct_178",
+      "name": "Italija 178",
+      "code": "it178",
+      "teams": []
+    },
+    {
+      "id": "ct_179",
+      "name": "Francuska 179",
+      "code": "fr179",
+      "teams": [
+        {
+          "id": "tm_142",
+          "name": "Team Alpha 142",
+          "countryId": "ct_179",
+          "sportId": "sp_97"
+        }
+      ]
+    },
+    {
+      "id": "ct_180",
+      "name": "Engleska 180",
+      "code": "en180",
+      "teams": [
+        {
+          "id": "tm_103",
+          "name": "Team Alpha 103",
+          "countryId": "ct_180",
+          "sportId": "sp_50"
+        }
+      ]
+    },
+    {
+      "id": "ct_181",
+      "name": "Hrvatska 181",
+      "code": "hr181",
+      "teams": []
+    },
+    {
+      "id": "ct_182",
+      "name": "BiH 182",
+      "code": "bi182",
+      "teams": []
+    },
+    {
+      "id": "ct_183",
+      "name": "Srbija 183",
+      "code": "sr183",
+      "teams": []
+    },
+    {
+      "id": "ct_184",
+      "name": "Njemačka 184",
+      "code": "nj184",
+      "teams": [
+        {
+          "id": "tm_23",
+          "name": "Team Alpha 23",
+          "countryId": "ct_184",
+          "sportId": "sp_92"
+        }
+      ]
+    },
+    {
+      "id": "ct_185",
+      "name": "Austrija 185",
+      "code": "au185",
+      "teams": [
+        {
+          "id": "tm_191",
+          "name": "Team Alpha 191",
+          "countryId": "ct_185",
+          "sportId": "sp_33"
+        }
+      ]
+    },
+    {
+      "id": "ct_186",
+      "name": "Slovenija 186",
+      "code": "sl186",
+      "teams": [
+        {
+          "id": "tm_169",
+          "name": "Team Alpha 169",
+          "countryId": "ct_186",
+          "sportId": "sp_59"
+        }
+      ]
+    },
+    {
+      "id": "ct_187",
+      "name": "Španjolska 187",
+      "code": "šp187",
+      "teams": []
+    },
+    {
+      "id": "ct_188",
+      "name": "Italija 188",
+      "code": "it188",
+      "teams": [
+        {
+          "id": "tm_127",
+          "name": "Team Alpha 127",
+          "countryId": "ct_188",
+          "sportId": "sp_85"
+        }
+      ]
+    },
+    {
+      "id": "ct_189",
+      "name": "Francuska 189",
+      "code": "fr189",
+      "teams": [
+        {
+          "id": "tm_9",
+          "name": "Team Alpha 9",
+          "countryId": "ct_189",
+          "sportId": "sp_122"
+        },
+        {
+          "id": "tm_66",
+          "name": "Team Alpha 66",
+          "countryId": "ct_189",
+          "sportId": "sp_76"
+        },
+        {
+          "id": "tm_170",
+          "name": "Team Alpha 170",
+          "countryId": "ct_189",
+          "sportId": "sp_68"
+        }
+      ]
+    },
+    {
+      "id": "ct_190",
+      "name": "Engleska 190",
+      "code": "en190",
+      "teams": []
+    },
+    {
+      "id": "ct_191",
+      "name": "Hrvatska 191",
+      "code": "hr191",
+      "teams": [
+        {
+          "id": "tm_7",
+          "name": "Team Alpha 7",
+          "countryId": "ct_191",
+          "sportId": "sp_93"
+        },
+        {
+          "id": "tm_87",
+          "name": "Team Alpha 87",
+          "countryId": "ct_191",
+          "sportId": "sp_98"
+        }
+      ]
+    },
+    {
+      "id": "ct_192",
+      "name": "BiH 192",
+      "code": "bi192",
+      "teams": [
+        {
+          "id": "tm_50",
+          "name": "Team Alpha 50",
+          "countryId": "ct_192",
+          "sportId": "sp_16"
+        }
+      ]
+    },
+    {
+      "id": "ct_193",
+      "name": "Srbija 193",
+      "code": "sr193",
+      "teams": [
+        {
+          "id": "tm_15",
+          "name": "Team Alpha 15",
+          "countryId": "ct_193",
+          "sportId": "sp_164"
+        },
+        {
+          "id": "tm_29",
+          "name": "Team Alpha 29",
+          "countryId": "ct_193",
+          "sportId": "sp_11"
+        },
+        {
+          "id": "tm_33",
+          "name": "Team Alpha 33",
+          "countryId": "ct_193",
+          "sportId": "sp_72"
+        },
+        {
+          "id": "tm_57",
+          "name": "Team Alpha 57",
+          "countryId": "ct_193",
+          "sportId": "sp_109"
+        },
+        {
+          "id": "tm_165",
+          "name": "Team Alpha 165",
+          "countryId": "ct_193",
+          "sportId": "sp_61"
+        }
+      ]
+    },
+    {
+      "id": "ct_194",
+      "name": "Njemačka 194",
+      "code": "nj194",
+      "teams": []
+    },
+    {
+      "id": "ct_195",
+      "name": "Austrija 195",
+      "code": "au195",
+      "teams": [
+        {
+          "id": "tm_8",
+          "name": "Team Alpha 8",
+          "countryId": "ct_195",
+          "sportId": "sp_170"
+        },
+        {
+          "id": "tm_45",
+          "name": "Team Alpha 45",
+          "countryId": "ct_195",
+          "sportId": "sp_64"
+        }
+      ]
+    },
+    {
+      "id": "ct_196",
+      "name": "Slovenija 196",
+      "code": "sl196",
+      "teams": []
+    },
+    {
+      "id": "ct_197",
+      "name": "Španjolska 197",
+      "code": "šp197",
+      "teams": [
+        {
+          "id": "tm_147",
+          "name": "Team Alpha 147",
+          "countryId": "ct_197",
+          "sportId": "sp_147"
+        }
+      ]
+    },
+    {
+      "id": "ct_198",
+      "name": "Italija 198",
+      "code": "it198",
+      "teams": [
+        {
+          "id": "tm_135",
+          "name": "Team Alpha 135",
+          "countryId": "ct_198",
+          "sportId": "sp_139"
+        }
+      ]
+    },
+    {
+      "id": "ct_199",
+      "name": "Francuska 199",
+      "code": "fr199",
+      "teams": [
+        {
+          "id": "tm_90",
+          "name": "Team Alpha 90",
+          "countryId": "ct_199",
+          "sportId": "sp_150"
+        }
+      ]
+    },
+    {
+      "id": "ct_200",
+      "name": "Engleska 200",
+      "code": "en200",
+      "teams": []
+    }
+  ],
+  "sports": [
+    {
+      "id": "sp_1",
+      "name": "Nogomet 1",
+      "teams": [
+        {
+          "id": "tm_58",
+          "name": "Team Alpha 58",
+          "countryId": "ct_139",
+          "sportId": "sp_1"
+        }
+      ]
+    },
+    {
+      "id": "sp_2",
+      "name": "Košarka 2",
+      "teams": [
+        {
+          "id": "tm_116",
+          "name": "Team Alpha 116",
+          "countryId": "ct_102",
+          "sportId": "sp_2"
+        }
+      ]
+    },
+    {
+      "id": "sp_3",
+      "name": "Tenis 3",
+      "teams": [
+        {
+          "id": "tm_102",
+          "name": "Team Alpha 102",
+          "countryId": "ct_88",
+          "sportId": "sp_3"
+        }
+      ]
+    },
+    {
+      "id": "sp_4",
+      "name": "Rukomet 4",
+      "teams": [
+        {
+          "id": "tm_67",
+          "name": "Team Alpha 67",
+          "countryId": "ct_177",
+          "sportId": "sp_4"
+        }
+      ]
+    },
+    {
+      "id": "sp_5",
+      "name": "Odbojka 5",
+      "teams": [
+        {
+          "id": "tm_10",
+          "name": "Team Alpha 10",
+          "countryId": "ct_95",
+          "sportId": "sp_5"
+        }
+      ]
+    },
+    {
+      "id": "sp_6",
+      "name": "Vaterpolo 6",
+      "teams": [
+        {
+          "id": "tm_59",
+          "name": "Team Alpha 59",
+          "countryId": "ct_82",
+          "sportId": "sp_6"
+        }
+      ]
+    },
+    {
+      "id": "sp_7",
+      "name": "Plivanje 7",
+      "teams": [
+        {
+          "id": "tm_149",
+          "name": "Team Alpha 149",
+          "countryId": "ct_95",
+          "sportId": "sp_7"
+        }
+      ]
+    },
+    {
+      "id": "sp_8",
+      "name": "Atletika 8",
+      "teams": [
+        {
+          "id": "tm_115",
+          "name": "Team Alpha 115",
+          "countryId": "ct_20",
+          "sportId": "sp_8"
+        }
+      ]
+    },
+    {
+      "id": "sp_9",
+      "name": "Boks 9",
+      "teams": []
+    },
+    {
+      "id": "sp_10",
+      "name": "Ski skokovi 10",
+      "teams": []
+    },
+    {
+      "id": "sp_11",
+      "name": "Nogomet 11",
+      "teams": [
+        {
+          "id": "tm_29",
+          "name": "Team Alpha 29",
+          "countryId": "ct_193",
+          "sportId": "sp_11"
+        },
+        {
+          "id": "tm_162",
+          "name": "Team Alpha 162",
+          "countryId": "ct_142",
+          "sportId": "sp_11"
+        },
+        {
+          "id": "tm_195",
+          "name": "Team Alpha 195",
+          "countryId": "ct_102",
+          "sportId": "sp_11"
+        }
+      ]
+    },
+    {
+      "id": "sp_12",
+      "name": "Košarka 12",
+      "teams": []
+    },
+    {
+      "id": "sp_13",
+      "name": "Tenis 13",
+      "teams": []
+    },
+    {
+      "id": "sp_14",
+      "name": "Rukomet 14",
+      "teams": []
+    },
+    {
+      "id": "sp_15",
+      "name": "Odbojka 15",
+      "teams": []
+    },
+    {
+      "id": "sp_16",
+      "name": "Vaterpolo 16",
+      "teams": [
+        {
+          "id": "tm_32",
+          "name": "Team Alpha 32",
+          "countryId": "ct_138",
+          "sportId": "sp_16"
+        },
+        {
+          "id": "tm_50",
+          "name": "Team Alpha 50",
+          "countryId": "ct_192",
+          "sportId": "sp_16"
+        }
+      ]
+    },
+    {
+      "id": "sp_17",
+      "name": "Plivanje 17",
+      "teams": [
+        {
+          "id": "tm_104",
+          "name": "Team Alpha 104",
+          "countryId": "ct_44",
+          "sportId": "sp_17"
+        }
+      ]
+    },
+    {
+      "id": "sp_18",
+      "name": "Atletika 18",
+      "teams": []
+    },
+    {
+      "id": "sp_19",
+      "name": "Boks 19",
+      "teams": [
+        {
+          "id": "tm_131",
+          "name": "Team Alpha 131",
+          "countryId": "ct_176",
+          "sportId": "sp_19"
+        }
+      ]
+    },
+    {
+      "id": "sp_20",
+      "name": "Ski skokovi 20",
+      "teams": []
+    },
+    {
+      "id": "sp_21",
+      "name": "Nogomet 21",
+      "teams": [
+        {
+          "id": "tm_49",
+          "name": "Team Alpha 49",
+          "countryId": "ct_63",
+          "sportId": "sp_21"
+        },
+        {
+          "id": "tm_63",
+          "name": "Team Alpha 63",
+          "countryId": "ct_72",
+          "sportId": "sp_21"
+        }
+      ]
+    },
+    {
+      "id": "sp_22",
+      "name": "Košarka 22",
+      "teams": [
+        {
+          "id": "tm_156",
+          "name": "Team Alpha 156",
+          "countryId": "ct_177",
+          "sportId": "sp_22"
+        }
+      ]
+    },
+    {
+      "id": "sp_23",
+      "name": "Tenis 23",
+      "teams": []
+    },
+    {
+      "id": "sp_24",
+      "name": "Rukomet 24",
+      "teams": [
+        {
+          "id": "tm_163",
+          "name": "Team Alpha 163",
+          "countryId": "ct_66",
+          "sportId": "sp_24"
+        }
+      ]
+    },
+    {
+      "id": "sp_25",
+      "name": "Odbojka 25",
+      "teams": [
+        {
+          "id": "tm_86",
+          "name": "Team Alpha 86",
+          "countryId": "ct_131",
+          "sportId": "sp_25"
+        }
+      ]
+    },
+    {
+      "id": "sp_26",
+      "name": "Vaterpolo 26",
+      "teams": [
+        {
+          "id": "tm_3",
+          "name": "Team Alpha 3",
+          "countryId": "ct_103",
+          "sportId": "sp_26"
+        },
+        {
+          "id": "tm_175",
+          "name": "Team Alpha 175",
+          "countryId": "ct_148",
+          "sportId": "sp_26"
+        },
+        {
+          "id": "tm_182",
+          "name": "Team Alpha 182",
+          "countryId": "ct_123",
+          "sportId": "sp_26"
+        }
+      ]
+    },
+    {
+      "id": "sp_27",
+      "name": "Plivanje 27",
+      "teams": [
+        {
+          "id": "tm_26",
+          "name": "Team Alpha 26",
+          "countryId": "ct_71",
+          "sportId": "sp_27"
+        }
+      ]
+    },
+    {
+      "id": "sp_28",
+      "name": "Atletika 28",
+      "teams": [
+        {
+          "id": "tm_42",
+          "name": "Team Alpha 42",
+          "countryId": "ct_95",
+          "sportId": "sp_28"
+        },
+        {
+          "id": "tm_71",
+          "name": "Team Alpha 71",
+          "countryId": "ct_63",
+          "sportId": "sp_28"
+        },
+        {
+          "id": "tm_157",
+          "name": "Team Alpha 157",
+          "countryId": "ct_92",
+          "sportId": "sp_28"
+        }
+      ]
+    },
+    {
+      "id": "sp_29",
+      "name": "Boks 29",
+      "teams": [
+        {
+          "id": "tm_51",
+          "name": "Team Alpha 51",
+          "countryId": "ct_22",
+          "sportId": "sp_29"
+        },
+        {
+          "id": "tm_197",
+          "name": "Team Alpha 197",
+          "countryId": "ct_163",
+          "sportId": "sp_29"
+        }
+      ]
+    },
+    {
+      "id": "sp_30",
+      "name": "Ski skokovi 30",
+      "teams": []
+    },
+    {
+      "id": "sp_31",
+      "name": "Nogomet 31",
+      "teams": [
+        {
+          "id": "tm_183",
+          "name": "Team Alpha 183",
+          "countryId": "ct_107",
+          "sportId": "sp_31"
+        },
+        {
+          "id": "tm_186",
+          "name": "Team Alpha 186",
+          "countryId": "ct_40",
+          "sportId": "sp_31"
+        }
+      ]
+    },
+    {
+      "id": "sp_32",
+      "name": "Košarka 32",
+      "teams": []
+    },
+    {
+      "id": "sp_33",
+      "name": "Tenis 33",
+      "teams": [
+        {
+          "id": "tm_191",
+          "name": "Team Alpha 191",
+          "countryId": "ct_185",
+          "sportId": "sp_33"
+        }
+      ]
+    },
+    {
+      "id": "sp_34",
+      "name": "Rukomet 34",
+      "teams": [
+        {
+          "id": "tm_153",
+          "name": "Team Alpha 153",
+          "countryId": "ct_69",
+          "sportId": "sp_34"
+        },
+        {
+          "id": "tm_187",
+          "name": "Team Alpha 187",
+          "countryId": "ct_44",
+          "sportId": "sp_34"
+        }
+      ]
+    },
+    {
+      "id": "sp_35",
+      "name": "Odbojka 35",
+      "teams": [
+        {
+          "id": "tm_166",
+          "name": "Team Alpha 166",
+          "countryId": "ct_7",
+          "sportId": "sp_35"
+        }
+      ]
+    },
+    {
+      "id": "sp_36",
+      "name": "Vaterpolo 36",
+      "teams": []
+    },
+    {
+      "id": "sp_37",
+      "name": "Plivanje 37",
+      "teams": []
+    },
+    {
+      "id": "sp_38",
+      "name": "Atletika 38",
+      "teams": []
+    },
+    {
+      "id": "sp_39",
+      "name": "Boks 39",
+      "teams": []
+    },
+    {
+      "id": "sp_40",
+      "name": "Ski skokovi 40",
+      "teams": [
+        {
+          "id": "tm_54",
+          "name": "Team Alpha 54",
+          "countryId": "ct_12",
+          "sportId": "sp_40"
+        }
+      ]
+    },
+    {
+      "id": "sp_41",
+      "name": "Nogomet 41",
+      "teams": [
+        {
+          "id": "tm_12",
+          "name": "Team Alpha 12",
+          "countryId": "ct_167",
+          "sportId": "sp_41"
+        }
+      ]
+    },
+    {
+      "id": "sp_42",
+      "name": "Košarka 42",
+      "teams": []
+    },
+    {
+      "id": "sp_43",
+      "name": "Tenis 43",
+      "teams": []
+    },
+    {
+      "id": "sp_44",
+      "name": "Rukomet 44",
+      "teams": [
+        {
+          "id": "tm_130",
+          "name": "Team Alpha 130",
+          "countryId": "ct_132",
+          "sportId": "sp_44"
+        }
+      ]
+    },
+    {
+      "id": "sp_45",
+      "name": "Odbojka 45",
+      "teams": [
+        {
+          "id": "tm_70",
+          "name": "Team Alpha 70",
+          "countryId": "ct_125",
+          "sportId": "sp_45"
+        }
+      ]
+    },
+    {
+      "id": "sp_46",
+      "name": "Vaterpolo 46",
+      "teams": []
+    },
+    {
+      "id": "sp_47",
+      "name": "Plivanje 47",
+      "teams": []
+    },
+    {
+      "id": "sp_48",
+      "name": "Atletika 48",
+      "teams": []
+    },
+    {
+      "id": "sp_49",
+      "name": "Boks 49",
+      "teams": [
+        {
+          "id": "tm_16",
+          "name": "Team Alpha 16",
+          "countryId": "ct_57",
+          "sportId": "sp_49"
+        },
+        {
+          "id": "tm_184",
+          "name": "Team Alpha 184",
+          "countryId": "ct_63",
+          "sportId": "sp_49"
+        },
+        {
+          "id": "tm_192",
+          "name": "Team Alpha 192",
+          "countryId": "ct_38",
+          "sportId": "sp_49"
+        }
+      ]
+    },
+    {
+      "id": "sp_50",
+      "name": "Ski skokovi 50",
+      "teams": [
+        {
+          "id": "tm_103",
+          "name": "Team Alpha 103",
+          "countryId": "ct_180",
+          "sportId": "sp_50"
+        }
+      ]
+    },
+    {
+      "id": "sp_51",
+      "name": "Nogomet 51",
+      "teams": [
+        {
+          "id": "tm_128",
+          "name": "Team Alpha 128",
+          "countryId": "ct_101",
+          "sportId": "sp_51"
+        },
+        {
+          "id": "tm_189",
+          "name": "Team Alpha 189",
+          "countryId": "ct_175",
+          "sportId": "sp_51"
+        }
+      ]
+    },
+    {
+      "id": "sp_52",
+      "name": "Košarka 52",
+      "teams": [
+        {
+          "id": "tm_24",
+          "name": "Team Alpha 24",
+          "countryId": "ct_49",
+          "sportId": "sp_52"
+        }
+      ]
+    },
+    {
+      "id": "sp_53",
+      "name": "Tenis 53",
+      "teams": []
+    },
+    {
+      "id": "sp_54",
+      "name": "Rukomet 54",
+      "teams": []
+    },
+    {
+      "id": "sp_55",
+      "name": "Odbojka 55",
+      "teams": [
+        {
+          "id": "tm_141",
+          "name": "Team Alpha 141",
+          "countryId": "ct_126",
+          "sportId": "sp_55"
+        }
+      ]
+    },
+    {
+      "id": "sp_56",
+      "name": "Vaterpolo 56",
+      "teams": []
+    },
+    {
+      "id": "sp_57",
+      "name": "Plivanje 57",
+      "teams": [
+        {
+          "id": "tm_2",
+          "name": "Team Alpha 2",
+          "countryId": "ct_165",
+          "sportId": "sp_57"
+        },
+        {
+          "id": "tm_53",
+          "name": "Team Alpha 53",
+          "countryId": "ct_48",
+          "sportId": "sp_57"
+        }
+      ]
+    },
+    {
+      "id": "sp_58",
+      "name": "Atletika 58",
+      "teams": []
+    },
+    {
+      "id": "sp_59",
+      "name": "Boks 59",
+      "teams": [
+        {
+          "id": "tm_19",
+          "name": "Team Alpha 19",
+          "countryId": "ct_1",
+          "sportId": "sp_59"
+        },
+        {
+          "id": "tm_169",
+          "name": "Team Alpha 169",
+          "countryId": "ct_186",
+          "sportId": "sp_59"
+        }
+      ]
+    },
+    {
+      "id": "sp_60",
+      "name": "Ski skokovi 60",
+      "teams": [
+        {
+          "id": "tm_98",
+          "name": "Team Alpha 98",
+          "countryId": "ct_116",
+          "sportId": "sp_60"
+        },
+        {
+          "id": "tm_160",
+          "name": "Team Alpha 160",
+          "countryId": "ct_56",
+          "sportId": "sp_60"
+        }
+      ]
+    },
+    {
+      "id": "sp_61",
+      "name": "Nogomet 61",
+      "teams": [
+        {
+          "id": "tm_165",
+          "name": "Team Alpha 165",
+          "countryId": "ct_193",
+          "sportId": "sp_61"
+        }
+      ]
+    },
+    {
+      "id": "sp_62",
+      "name": "Košarka 62",
+      "teams": []
+    },
+    {
+      "id": "sp_63",
+      "name": "Tenis 63",
+      "teams": []
+    },
+    {
+      "id": "sp_64",
+      "name": "Rukomet 64",
+      "teams": [
+        {
+          "id": "tm_14",
+          "name": "Team Alpha 14",
+          "countryId": "ct_117",
+          "sportId": "sp_64"
+        },
+        {
+          "id": "tm_45",
+          "name": "Team Alpha 45",
+          "countryId": "ct_195",
+          "sportId": "sp_64"
+        },
+        {
+          "id": "tm_150",
+          "name": "Team Alpha 150",
+          "countryId": "ct_167",
+          "sportId": "sp_64"
+        }
+      ]
+    },
+    {
+      "id": "sp_65",
+      "name": "Odbojka 65",
+      "teams": []
+    },
+    {
+      "id": "sp_66",
+      "name": "Vaterpolo 66",
+      "teams": []
+    },
+    {
+      "id": "sp_67",
+      "name": "Plivanje 67",
+      "teams": [
+        {
+          "id": "tm_35",
+          "name": "Team Alpha 35",
+          "countryId": "ct_1",
+          "sportId": "sp_67"
+        },
+        {
+          "id": "tm_75",
+          "name": "Team Alpha 75",
+          "countryId": "ct_71",
+          "sportId": "sp_67"
+        },
+        {
+          "id": "tm_126",
+          "name": "Team Alpha 126",
+          "countryId": "ct_85",
+          "sportId": "sp_67"
+        }
+      ]
+    },
+    {
+      "id": "sp_68",
+      "name": "Atletika 68",
+      "teams": [
+        {
+          "id": "tm_107",
+          "name": "Team Alpha 107",
+          "countryId": "ct_170",
+          "sportId": "sp_68"
+        },
+        {
+          "id": "tm_170",
+          "name": "Team Alpha 170",
+          "countryId": "ct_189",
+          "sportId": "sp_68"
+        }
+      ]
+    },
+    {
+      "id": "sp_69",
+      "name": "Boks 69",
+      "teams": []
+    },
+    {
+      "id": "sp_70",
+      "name": "Ski skokovi 70",
+      "teams": []
+    },
+    {
+      "id": "sp_71",
+      "name": "Nogomet 71",
+      "teams": []
+    },
+    {
+      "id": "sp_72",
+      "name": "Košarka 72",
+      "teams": [
+        {
+          "id": "tm_33",
+          "name": "Team Alpha 33",
+          "countryId": "ct_193",
+          "sportId": "sp_72"
+        },
+        {
+          "id": "tm_89",
+          "name": "Team Alpha 89",
+          "countryId": "ct_4",
+          "sportId": "sp_72"
+        }
+      ]
+    },
+    {
+      "id": "sp_73",
+      "name": "Tenis 73",
+      "teams": [
+        {
+          "id": "tm_21",
+          "name": "Team Alpha 21",
+          "countryId": "ct_52",
+          "sportId": "sp_73"
+        }
+      ]
+    },
+    {
+      "id": "sp_74",
+      "name": "Rukomet 74",
+      "teams": [
+        {
+          "id": "tm_83",
+          "name": "Team Alpha 83",
+          "countryId": "ct_101",
+          "sportId": "sp_74"
+        },
+        {
+          "id": "tm_122",
+          "name": "Team Alpha 122",
+          "countryId": "ct_143",
+          "sportId": "sp_74"
+        }
+      ]
+    },
+    {
+      "id": "sp_75",
+      "name": "Odbojka 75",
+      "teams": []
+    },
+    {
+      "id": "sp_76",
+      "name": "Vaterpolo 76",
+      "teams": [
+        {
+          "id": "tm_66",
+          "name": "Team Alpha 66",
+          "countryId": "ct_189",
+          "sportId": "sp_76"
+        },
+        {
+          "id": "tm_121",
+          "name": "Team Alpha 121",
+          "countryId": "ct_170",
+          "sportId": "sp_76"
+        }
+      ]
+    },
+    {
+      "id": "sp_77",
+      "name": "Plivanje 77",
+      "teams": [
+        {
+          "id": "tm_190",
+          "name": "Team Alpha 190",
+          "countryId": "ct_25",
+          "sportId": "sp_77"
+        }
+      ]
+    },
+    {
+      "id": "sp_78",
+      "name": "Atletika 78",
+      "teams": []
+    },
+    {
+      "id": "sp_79",
+      "name": "Boks 79",
+      "teams": [
+        {
+          "id": "tm_20",
+          "name": "Team Alpha 20",
+          "countryId": "ct_44",
+          "sportId": "sp_79"
+        }
+      ]
+    },
+    {
+      "id": "sp_80",
+      "name": "Ski skokovi 80",
+      "teams": []
+    },
+    {
+      "id": "sp_81",
+      "name": "Nogomet 81",
+      "teams": [
+        {
+          "id": "tm_22",
+          "name": "Team Alpha 22",
+          "countryId": "ct_168",
+          "sportId": "sp_81"
+        }
+      ]
+    },
+    {
+      "id": "sp_82",
+      "name": "Košarka 82",
+      "teams": []
+    },
+    {
+      "id": "sp_83",
+      "name": "Tenis 83",
+      "teams": [
+        {
+          "id": "tm_113",
+          "name": "Team Alpha 113",
+          "countryId": "ct_108",
+          "sportId": "sp_83"
+        }
+      ]
+    },
+    {
+      "id": "sp_84",
+      "name": "Rukomet 84",
+      "teams": [
+        {
+          "id": "tm_25",
+          "name": "Team Alpha 25",
+          "countryId": "ct_101",
+          "sportId": "sp_84"
+        },
+        {
+          "id": "tm_52",
+          "name": "Team Alpha 52",
+          "countryId": "ct_2",
+          "sportId": "sp_84"
+        }
+      ]
+    },
+    {
+      "id": "sp_85",
+      "name": "Odbojka 85",
+      "teams": [
+        {
+          "id": "tm_62",
+          "name": "Team Alpha 62",
+          "countryId": "ct_6",
+          "sportId": "sp_85"
+        },
+        {
+          "id": "tm_88",
+          "name": "Team Alpha 88",
+          "countryId": "ct_4",
+          "sportId": "sp_85"
+        },
+        {
+          "id": "tm_127",
+          "name": "Team Alpha 127",
+          "countryId": "ct_188",
+          "sportId": "sp_85"
+        }
+      ]
+    },
+    {
+      "id": "sp_86",
+      "name": "Vaterpolo 86",
+      "teams": [
+        {
+          "id": "tm_199",
+          "name": "Team Alpha 199",
+          "countryId": "ct_106",
+          "sportId": "sp_86"
+        }
+      ]
+    },
+    {
+      "id": "sp_87",
+      "name": "Plivanje 87",
+      "teams": [
+        {
+          "id": "tm_132",
+          "name": "Team Alpha 132",
+          "countryId": "ct_4",
+          "sportId": "sp_87"
+        },
+        {
+          "id": "tm_145",
+          "name": "Team Alpha 145",
+          "countryId": "ct_127",
+          "sportId": "sp_87"
+        }
+      ]
+    },
+    {
+      "id": "sp_88",
+      "name": "Atletika 88",
+      "teams": []
+    },
+    {
+      "id": "sp_89",
+      "name": "Boks 89",
+      "teams": [
+        {
+          "id": "tm_73",
+          "name": "Team Alpha 73",
+          "countryId": "ct_112",
+          "sportId": "sp_89"
+        }
+      ]
+    },
+    {
+      "id": "sp_90",
+      "name": "Ski skokovi 90",
+      "teams": [
+        {
+          "id": "tm_144",
+          "name": "Team Alpha 144",
+          "countryId": "ct_117",
+          "sportId": "sp_90"
+        },
+        {
+          "id": "tm_181",
+          "name": "Team Alpha 181",
+          "countryId": "ct_166",
+          "sportId": "sp_90"
+        }
+      ]
+    },
+    {
+      "id": "sp_91",
+      "name": "Nogomet 91",
+      "teams": [
+        {
+          "id": "tm_194",
+          "name": "Team Alpha 194",
+          "countryId": "ct_22",
+          "sportId": "sp_91"
+        }
+      ]
+    },
+    {
+      "id": "sp_92",
+      "name": "Košarka 92",
+      "teams": [
+        {
+          "id": "tm_23",
+          "name": "Team Alpha 23",
+          "countryId": "ct_184",
+          "sportId": "sp_92"
+        },
+        {
+          "id": "tm_36",
+          "name": "Team Alpha 36",
+          "countryId": "ct_111",
+          "sportId": "sp_92"
+        },
+        {
+          "id": "tm_119",
+          "name": "Team Alpha 119",
+          "countryId": "ct_19",
+          "sportId": "sp_92"
+        },
+        {
+          "id": "tm_167",
+          "name": "Team Alpha 167",
+          "countryId": "ct_105",
+          "sportId": "sp_92"
+        }
+      ]
+    },
+    {
+      "id": "sp_93",
+      "name": "Tenis 93",
+      "teams": [
+        {
+          "id": "tm_7",
+          "name": "Team Alpha 7",
+          "countryId": "ct_191",
+          "sportId": "sp_93"
+        },
+        {
+          "id": "tm_114",
+          "name": "Team Alpha 114",
+          "countryId": "ct_42",
+          "sportId": "sp_93"
+        },
+        {
+          "id": "tm_125",
+          "name": "Team Alpha 125",
+          "countryId": "ct_70",
+          "sportId": "sp_93"
+        }
+      ]
+    },
+    {
+      "id": "sp_94",
+      "name": "Rukomet 94",
+      "teams": []
+    },
+    {
+      "id": "sp_95",
+      "name": "Odbojka 95",
+      "teams": [
+        {
+          "id": "tm_134",
+          "name": "Team Alpha 134",
+          "countryId": "ct_47",
+          "sportId": "sp_95"
+        }
+      ]
+    },
+    {
+      "id": "sp_96",
+      "name": "Vaterpolo 96",
+      "teams": [
+        {
+          "id": "tm_109",
+          "name": "Team Alpha 109",
+          "countryId": "ct_8",
+          "sportId": "sp_96"
+        },
+        {
+          "id": "tm_155",
+          "name": "Team Alpha 155",
+          "countryId": "ct_140",
+          "sportId": "sp_96"
+        }
+      ]
+    },
+    {
+      "id": "sp_97",
+      "name": "Plivanje 97",
+      "teams": [
+        {
+          "id": "tm_118",
+          "name": "Team Alpha 118",
+          "countryId": "ct_57",
+          "sportId": "sp_97"
+        },
+        {
+          "id": "tm_142",
+          "name": "Team Alpha 142",
+          "countryId": "ct_179",
+          "sportId": "sp_97"
+        }
+      ]
+    },
+    {
+      "id": "sp_98",
+      "name": "Atletika 98",
+      "teams": [
+        {
+          "id": "tm_60",
+          "name": "Team Alpha 60",
+          "countryId": "ct_69",
+          "sportId": "sp_98"
+        },
+        {
+          "id": "tm_87",
+          "name": "Team Alpha 87",
+          "countryId": "ct_191",
+          "sportId": "sp_98"
+        }
+      ]
+    },
+    {
+      "id": "sp_99",
+      "name": "Boks 99",
+      "teams": [
+        {
+          "id": "tm_44",
+          "name": "Team Alpha 44",
+          "countryId": "ct_104",
+          "sportId": "sp_99"
+        }
+      ]
+    },
+    {
+      "id": "sp_100",
+      "name": "Ski skokovi 100",
+      "teams": [
+        {
+          "id": "tm_154",
+          "name": "Team Alpha 154",
+          "countryId": "ct_41",
+          "sportId": "sp_100"
+        },
+        {
+          "id": "tm_198",
+          "name": "Team Alpha 198",
+          "countryId": "ct_163",
+          "sportId": "sp_100"
+        }
+      ]
+    },
+    {
+      "id": "sp_101",
+      "name": "Nogomet 101",
+      "teams": [
+        {
+          "id": "tm_34",
+          "name": "Team Alpha 34",
+          "countryId": "ct_103",
+          "sportId": "sp_101"
+        },
+        {
+          "id": "tm_65",
+          "name": "Team Alpha 65",
+          "countryId": "ct_154",
+          "sportId": "sp_101"
+        }
+      ]
+    },
+    {
+      "id": "sp_102",
+      "name": "Košarka 102",
+      "teams": [
+        {
+          "id": "tm_76",
+          "name": "Team Alpha 76",
+          "countryId": "ct_129",
+          "sportId": "sp_102"
+        }
+      ]
+    },
+    {
+      "id": "sp_103",
+      "name": "Tenis 103",
+      "teams": [
+        {
+          "id": "tm_47",
+          "name": "Team Alpha 47",
+          "countryId": "ct_14",
+          "sportId": "sp_103"
+        },
+        {
+          "id": "tm_112",
+          "name": "Team Alpha 112",
+          "countryId": "ct_67",
+          "sportId": "sp_103"
+        }
+      ]
+    },
+    {
+      "id": "sp_104",
+      "name": "Rukomet 104",
+      "teams": [
+        {
+          "id": "tm_64",
+          "name": "Team Alpha 64",
+          "countryId": "ct_142",
+          "sportId": "sp_104"
+        }
+      ]
+    },
+    {
+      "id": "sp_105",
+      "name": "Odbojka 105",
+      "teams": [
+        {
+          "id": "tm_146",
+          "name": "Team Alpha 146",
+          "countryId": "ct_54",
+          "sportId": "sp_105"
+        }
+      ]
+    },
+    {
+      "id": "sp_106",
+      "name": "Vaterpolo 106",
+      "teams": [
+        {
+          "id": "tm_123",
+          "name": "Team Alpha 123",
+          "countryId": "ct_151",
+          "sportId": "sp_106"
+        },
+        {
+          "id": "tm_138",
+          "name": "Team Alpha 138",
+          "countryId": "ct_102",
+          "sportId": "sp_106"
+        }
+      ]
+    },
+    {
+      "id": "sp_107",
+      "name": "Plivanje 107",
+      "teams": []
+    },
+    {
+      "id": "sp_108",
+      "name": "Atletika 108",
+      "teams": []
+    },
+    {
+      "id": "sp_109",
+      "name": "Boks 109",
+      "teams": [
+        {
+          "id": "tm_57",
+          "name": "Team Alpha 57",
+          "countryId": "ct_193",
+          "sportId": "sp_109"
+        },
+        {
+          "id": "tm_78",
+          "name": "Team Alpha 78",
+          "countryId": "ct_139",
+          "sportId": "sp_109"
+        },
+        {
+          "id": "tm_185",
+          "name": "Team Alpha 185",
+          "countryId": "ct_91",
+          "sportId": "sp_109"
+        }
+      ]
+    },
+    {
+      "id": "sp_110",
+      "name": "Ski skokovi 110",
+      "teams": [
+        {
+          "id": "tm_81",
+          "name": "Team Alpha 81",
+          "countryId": "ct_72",
+          "sportId": "sp_110"
+        },
+        {
+          "id": "tm_140",
+          "name": "Team Alpha 140",
+          "countryId": "ct_25",
+          "sportId": "sp_110"
+        },
+        {
+          "id": "tm_159",
+          "name": "Team Alpha 159",
+          "countryId": "ct_67",
+          "sportId": "sp_110"
+        }
+      ]
+    },
+    {
+      "id": "sp_111",
+      "name": "Nogomet 111",
+      "teams": [
+        {
+          "id": "tm_43",
+          "name": "Team Alpha 43",
+          "countryId": "ct_150",
+          "sportId": "sp_111"
+        },
+        {
+          "id": "tm_158",
+          "name": "Team Alpha 158",
+          "countryId": "ct_14",
+          "sportId": "sp_111"
+        }
+      ]
+    },
+    {
+      "id": "sp_112",
+      "name": "Košarka 112",
+      "teams": [
+        {
+          "id": "tm_79",
+          "name": "Team Alpha 79",
+          "countryId": "ct_35",
+          "sportId": "sp_112"
+        }
+      ]
+    },
+    {
+      "id": "sp_113",
+      "name": "Tenis 113",
+      "teams": [
+        {
+          "id": "tm_106",
+          "name": "Team Alpha 106",
+          "countryId": "ct_35",
+          "sportId": "sp_113"
+        }
+      ]
+    },
+    {
+      "id": "sp_114",
+      "name": "Rukomet 114",
+      "teams": [
+        {
+          "id": "tm_172",
+          "name": "Team Alpha 172",
+          "countryId": "ct_107",
+          "sportId": "sp_114"
+        }
+      ]
+    },
+    {
+      "id": "sp_115",
+      "name": "Odbojka 115",
+      "teams": [
+        {
+          "id": "tm_68",
+          "name": "Team Alpha 68",
+          "countryId": "ct_133",
+          "sportId": "sp_115"
+        }
+      ]
+    },
+    {
+      "id": "sp_116",
+      "name": "Vaterpolo 116",
+      "teams": []
+    },
+    {
+      "id": "sp_117",
+      "name": "Plivanje 117",
+      "teams": [
+        {
+          "id": "tm_28",
+          "name": "Team Alpha 28",
+          "countryId": "ct_145",
+          "sportId": "sp_117"
+        },
+        {
+          "id": "tm_56",
+          "name": "Team Alpha 56",
+          "countryId": "ct_48",
+          "sportId": "sp_117"
+        }
+      ]
+    },
+    {
+      "id": "sp_118",
+      "name": "Atletika 118",
+      "teams": [
+        {
+          "id": "tm_133",
+          "name": "Team Alpha 133",
+          "countryId": "ct_24",
+          "sportId": "sp_118"
+        }
+      ]
+    },
+    {
+      "id": "sp_119",
+      "name": "Boks 119",
+      "teams": [
+        {
+          "id": "tm_180",
+          "name": "Team Alpha 180",
+          "countryId": "ct_43",
+          "sportId": "sp_119"
+        }
+      ]
+    },
+    {
+      "id": "sp_120",
+      "name": "Ski skokovi 120",
+      "teams": []
+    },
+    {
+      "id": "sp_121",
+      "name": "Nogomet 121",
+      "teams": []
+    },
+    {
+      "id": "sp_122",
+      "name": "Košarka 122",
+      "teams": [
+        {
+          "id": "tm_9",
+          "name": "Team Alpha 9",
+          "countryId": "ct_189",
+          "sportId": "sp_122"
+        }
+      ]
+    },
+    {
+      "id": "sp_123",
+      "name": "Tenis 123",
+      "teams": []
+    },
+    {
+      "id": "sp_124",
+      "name": "Rukomet 124",
+      "teams": []
+    },
+    {
+      "id": "sp_125",
+      "name": "Odbojka 125",
+      "teams": [
+        {
+          "id": "tm_139",
+          "name": "Team Alpha 139",
+          "countryId": "ct_84",
+          "sportId": "sp_125"
+        }
+      ]
+    },
+    {
+      "id": "sp_126",
+      "name": "Vaterpolo 126",
+      "teams": []
+    },
+    {
+      "id": "sp_127",
+      "name": "Plivanje 127",
+      "teams": []
+    },
+    {
+      "id": "sp_128",
+      "name": "Atletika 128",
+      "teams": []
+    },
+    {
+      "id": "sp_129",
+      "name": "Boks 129",
+      "teams": [
+        {
+          "id": "tm_46",
+          "name": "Team Alpha 46",
+          "countryId": "ct_177",
+          "sportId": "sp_129"
+        },
+        {
+          "id": "tm_85",
+          "name": "Team Alpha 85",
+          "countryId": "ct_93",
+          "sportId": "sp_129"
+        }
+      ]
+    },
+    {
+      "id": "sp_130",
+      "name": "Ski skokovi 130",
+      "teams": [
+        {
+          "id": "tm_1",
+          "name": "Team Alpha 1",
+          "countryId": "ct_161",
+          "sportId": "sp_130"
+        },
+        {
+          "id": "tm_91",
+          "name": "Team Alpha 91",
+          "countryId": "ct_60",
+          "sportId": "sp_130"
+        }
+      ]
+    },
+    {
+      "id": "sp_131",
+      "name": "Nogomet 131",
+      "teams": [
+        {
+          "id": "tm_120",
+          "name": "Team Alpha 120",
+          "countryId": "ct_139",
+          "sportId": "sp_131"
+        }
+      ]
+    },
+    {
+      "id": "sp_132",
+      "name": "Košarka 132",
+      "teams": [
+        {
+          "id": "tm_31",
+          "name": "Team Alpha 31",
+          "countryId": "ct_104",
+          "sportId": "sp_132"
+        }
+      ]
+    },
+    {
+      "id": "sp_133",
+      "name": "Tenis 133",
+      "teams": [
+        {
+          "id": "tm_99",
+          "name": "Team Alpha 99",
+          "countryId": "ct_121",
+          "sportId": "sp_133"
+        }
+      ]
+    },
+    {
+      "id": "sp_134",
+      "name": "Rukomet 134",
+      "teams": []
+    },
+    {
+      "id": "sp_135",
+      "name": "Odbojka 135",
+      "teams": [
+        {
+          "id": "tm_30",
+          "name": "Team Alpha 30",
+          "countryId": "ct_94",
+          "sportId": "sp_135"
+        }
+      ]
+    },
+    {
+      "id": "sp_136",
+      "name": "Vaterpolo 136",
+      "teams": [
+        {
+          "id": "tm_40",
+          "name": "Team Alpha 40",
+          "countryId": "ct_86",
+          "sportId": "sp_136"
+        },
+        {
+          "id": "tm_96",
+          "name": "Team Alpha 96",
+          "countryId": "ct_86",
+          "sportId": "sp_136"
+        }
+      ]
+    },
+    {
+      "id": "sp_137",
+      "name": "Plivanje 137",
+      "teams": [
+        {
+          "id": "tm_41",
+          "name": "Team Alpha 41",
+          "countryId": "ct_70",
+          "sportId": "sp_137"
+        },
+        {
+          "id": "tm_48",
+          "name": "Team Alpha 48",
+          "countryId": "ct_145",
+          "sportId": "sp_137"
+        },
+        {
+          "id": "tm_92",
+          "name": "Team Alpha 92",
+          "countryId": "ct_81",
+          "sportId": "sp_137"
+        }
+      ]
+    },
+    {
+      "id": "sp_138",
+      "name": "Atletika 138",
+      "teams": [
+        {
+          "id": "tm_188",
+          "name": "Team Alpha 188",
+          "countryId": "ct_87",
+          "sportId": "sp_138"
+        },
+        {
+          "id": "tm_200",
+          "name": "Team Alpha 200",
+          "countryId": "ct_72",
+          "sportId": "sp_138"
+        }
+      ]
+    },
+    {
+      "id": "sp_139",
+      "name": "Boks 139",
+      "teams": [
+        {
+          "id": "tm_135",
+          "name": "Team Alpha 135",
+          "countryId": "ct_198",
+          "sportId": "sp_139"
+        }
+      ]
+    },
+    {
+      "id": "sp_140",
+      "name": "Ski skokovi 140",
+      "teams": []
+    },
+    {
+      "id": "sp_141",
+      "name": "Nogomet 141",
+      "teams": []
+    },
+    {
+      "id": "sp_142",
+      "name": "Košarka 142",
+      "teams": [
+        {
+          "id": "tm_5",
+          "name": "Team Alpha 5",
+          "countryId": "ct_73",
+          "sportId": "sp_142"
+        },
+        {
+          "id": "tm_6",
+          "name": "Team Alpha 6",
+          "countryId": "ct_28",
+          "sportId": "sp_142"
+        },
+        {
+          "id": "tm_136",
+          "name": "Team Alpha 136",
+          "countryId": "ct_168",
+          "sportId": "sp_142"
+        }
+      ]
+    },
+    {
+      "id": "sp_143",
+      "name": "Tenis 143",
+      "teams": [
+        {
+          "id": "tm_151",
+          "name": "Team Alpha 151",
+          "countryId": "ct_9",
+          "sportId": "sp_143"
+        }
+      ]
+    },
+    {
+      "id": "sp_144",
+      "name": "Rukomet 144",
+      "teams": []
+    },
+    {
+      "id": "sp_145",
+      "name": "Odbojka 145",
+      "teams": [
+        {
+          "id": "tm_77",
+          "name": "Team Alpha 77",
+          "countryId": "ct_127",
+          "sportId": "sp_145"
+        }
+      ]
+    },
+    {
+      "id": "sp_146",
+      "name": "Vaterpolo 146",
+      "teams": [
+        {
+          "id": "tm_179",
+          "name": "Team Alpha 179",
+          "countryId": "ct_109",
+          "sportId": "sp_146"
+        }
+      ]
+    },
+    {
+      "id": "sp_147",
+      "name": "Plivanje 147",
+      "teams": [
+        {
+          "id": "tm_147",
+          "name": "Team Alpha 147",
+          "countryId": "ct_197",
+          "sportId": "sp_147"
+        }
+      ]
+    },
+    {
+      "id": "sp_148",
+      "name": "Atletika 148",
+      "teams": [
+        {
+          "id": "tm_27",
+          "name": "Team Alpha 27",
+          "countryId": "ct_177",
+          "sportId": "sp_148"
+        }
+      ]
+    },
+    {
+      "id": "sp_149",
+      "name": "Boks 149",
+      "teams": []
+    },
+    {
+      "id": "sp_150",
+      "name": "Ski skokovi 150",
+      "teams": [
+        {
+          "id": "tm_61",
+          "name": "Team Alpha 61",
+          "countryId": "ct_166",
+          "sportId": "sp_150"
+        },
+        {
+          "id": "tm_90",
+          "name": "Team Alpha 90",
+          "countryId": "ct_199",
+          "sportId": "sp_150"
+        },
+        {
+          "id": "tm_111",
+          "name": "Team Alpha 111",
+          "countryId": "ct_107",
+          "sportId": "sp_150"
+        }
+      ]
+    },
+    {
+      "id": "sp_151",
+      "name": "Nogomet 151",
+      "teams": []
+    },
+    {
+      "id": "sp_152",
+      "name": "Košarka 152",
+      "teams": [
+        {
+          "id": "tm_4",
+          "name": "Team Alpha 4",
+          "countryId": "ct_122",
+          "sportId": "sp_152"
+        }
+      ]
+    },
+    {
+      "id": "sp_153",
+      "name": "Tenis 153",
+      "teams": []
+    },
+    {
+      "id": "sp_154",
+      "name": "Rukomet 154",
+      "teams": [
+        {
+          "id": "tm_11",
+          "name": "Team Alpha 11",
+          "countryId": "ct_128",
+          "sportId": "sp_154"
+        },
+        {
+          "id": "tm_148",
+          "name": "Team Alpha 148",
+          "countryId": "ct_81",
+          "sportId": "sp_154"
+        },
+        {
+          "id": "tm_177",
+          "name": "Team Alpha 177",
+          "countryId": "ct_173",
+          "sportId": "sp_154"
+        }
+      ]
+    },
+    {
+      "id": "sp_155",
+      "name": "Odbojka 155",
+      "teams": [
+        {
+          "id": "tm_168",
+          "name": "Team Alpha 168",
+          "countryId": "ct_10",
+          "sportId": "sp_155"
+        },
+        {
+          "id": "tm_171",
+          "name": "Team Alpha 171",
+          "countryId": "ct_5",
+          "sportId": "sp_155"
+        }
+      ]
+    },
+    {
+      "id": "sp_156",
+      "name": "Vaterpolo 156",
+      "teams": []
+    },
+    {
+      "id": "sp_157",
+      "name": "Plivanje 157",
+      "teams": []
+    },
+    {
+      "id": "sp_158",
+      "name": "Atletika 158",
+      "teams": [
+        {
+          "id": "tm_105",
+          "name": "Team Alpha 105",
+          "countryId": "ct_28",
+          "sportId": "sp_158"
+        }
+      ]
+    },
+    {
+      "id": "sp_159",
+      "name": "Boks 159",
+      "teams": [
+        {
+          "id": "tm_69",
+          "name": "Team Alpha 69",
+          "countryId": "ct_33",
+          "sportId": "sp_159"
+        },
+        {
+          "id": "tm_164",
+          "name": "Team Alpha 164",
+          "countryId": "ct_169",
+          "sportId": "sp_159"
+        }
+      ]
+    },
+    {
+      "id": "sp_160",
+      "name": "Ski skokovi 160",
+      "teams": [
+        {
+          "id": "tm_80",
+          "name": "Team Alpha 80",
+          "countryId": "ct_70",
+          "sportId": "sp_160"
+        },
+        {
+          "id": "tm_100",
+          "name": "Team Alpha 100",
+          "countryId": "ct_27",
+          "sportId": "sp_160"
+        }
+      ]
+    },
+    {
+      "id": "sp_161",
+      "name": "Nogomet 161",
+      "teams": [
+        {
+          "id": "tm_37",
+          "name": "Team Alpha 37",
+          "countryId": "ct_160",
+          "sportId": "sp_161"
+        },
+        {
+          "id": "tm_143",
+          "name": "Team Alpha 143",
+          "countryId": "ct_107",
+          "sportId": "sp_161"
+        }
+      ]
+    },
+    {
+      "id": "sp_162",
+      "name": "Košarka 162",
+      "teams": [
+        {
+          "id": "tm_13",
+          "name": "Team Alpha 13",
+          "countryId": "ct_166",
+          "sportId": "sp_162"
+        }
+      ]
+    },
+    {
+      "id": "sp_163",
+      "name": "Tenis 163",
+      "teams": []
+    },
+    {
+      "id": "sp_164",
+      "name": "Rukomet 164",
+      "teams": [
+        {
+          "id": "tm_15",
+          "name": "Team Alpha 15",
+          "countryId": "ct_193",
+          "sportId": "sp_164"
+        },
+        {
+          "id": "tm_161",
+          "name": "Team Alpha 161",
+          "countryId": "ct_120",
+          "sportId": "sp_164"
+        }
+      ]
+    },
+    {
+      "id": "sp_165",
+      "name": "Odbojka 165",
+      "teams": []
+    },
+    {
+      "id": "sp_166",
+      "name": "Vaterpolo 166",
+      "teams": [
+        {
+          "id": "tm_55",
+          "name": "Team Alpha 55",
+          "countryId": "ct_174",
+          "sportId": "sp_166"
+        }
+      ]
+    },
+    {
+      "id": "sp_167",
+      "name": "Plivanje 167",
+      "teams": []
+    },
+    {
+      "id": "sp_168",
+      "name": "Atletika 168",
+      "teams": [
+        {
+          "id": "tm_82",
+          "name": "Team Alpha 82",
+          "countryId": "ct_134",
+          "sportId": "sp_168"
+        },
+        {
+          "id": "tm_117",
+          "name": "Team Alpha 117",
+          "countryId": "ct_57",
+          "sportId": "sp_168"
+        }
+      ]
+    },
+    {
+      "id": "sp_169",
+      "name": "Boks 169",
+      "teams": [
+        {
+          "id": "tm_38",
+          "name": "Team Alpha 38",
+          "countryId": "ct_128",
+          "sportId": "sp_169"
+        }
+      ]
+    },
+    {
+      "id": "sp_170",
+      "name": "Ski skokovi 170",
+      "teams": [
+        {
+          "id": "tm_8",
+          "name": "Team Alpha 8",
+          "countryId": "ct_195",
+          "sportId": "sp_170"
+        }
+      ]
+    },
+    {
+      "id": "sp_171",
+      "name": "Nogomet 171",
+      "teams": []
+    },
+    {
+      "id": "sp_172",
+      "name": "Košarka 172",
+      "teams": [
+        {
+          "id": "tm_84",
+          "name": "Team Alpha 84",
+          "countryId": "ct_105",
+          "sportId": "sp_172"
+        }
+      ]
+    },
+    {
+      "id": "sp_173",
+      "name": "Tenis 173",
+      "teams": []
+    },
+    {
+      "id": "sp_174",
+      "name": "Rukomet 174",
+      "teams": [
+        {
+          "id": "tm_97",
+          "name": "Team Alpha 97",
+          "countryId": "ct_36",
+          "sportId": "sp_174"
+        }
+      ]
+    },
+    {
+      "id": "sp_175",
+      "name": "Odbojka 175",
+      "teams": [
+        {
+          "id": "tm_152",
+          "name": "Team Alpha 152",
+          "countryId": "ct_87",
+          "sportId": "sp_175"
+        }
+      ]
+    },
+    {
+      "id": "sp_176",
+      "name": "Vaterpolo 176",
+      "teams": []
+    },
+    {
+      "id": "sp_177",
+      "name": "Plivanje 177",
+      "teams": []
+    },
+    {
+      "id": "sp_178",
+      "name": "Atletika 178",
+      "teams": []
+    },
+    {
+      "id": "sp_179",
+      "name": "Boks 179",
+      "teams": [
+        {
+          "id": "tm_39",
+          "name": "Team Alpha 39",
+          "countryId": "ct_58",
+          "sportId": "sp_179"
+        }
+      ]
+    },
+    {
+      "id": "sp_180",
+      "name": "Ski skokovi 180",
+      "teams": [
+        {
+          "id": "tm_95",
+          "name": "Team Alpha 95",
+          "countryId": "ct_136",
+          "sportId": "sp_180"
+        }
+      ]
+    },
+    {
+      "id": "sp_181",
+      "name": "Nogomet 181",
+      "teams": [
+        {
+          "id": "tm_110",
+          "name": "Team Alpha 110",
+          "countryId": "ct_135",
+          "sportId": "sp_181"
+        },
+        {
+          "id": "tm_129",
+          "name": "Team Alpha 129",
+          "countryId": "ct_103",
+          "sportId": "sp_181"
+        }
+      ]
+    },
+    {
+      "id": "sp_182",
+      "name": "Košarka 182",
+      "teams": []
+    },
+    {
+      "id": "sp_183",
+      "name": "Tenis 183",
+      "teams": [
+        {
+          "id": "tm_74",
+          "name": "Team Alpha 74",
+          "countryId": "ct_159",
+          "sportId": "sp_183"
+        },
+        {
+          "id": "tm_196",
+          "name": "Team Alpha 196",
+          "countryId": "ct_120",
+          "sportId": "sp_183"
+        }
+      ]
+    },
+    {
+      "id": "sp_184",
+      "name": "Rukomet 184",
+      "teams": []
+    },
+    {
+      "id": "sp_185",
+      "name": "Odbojka 185",
+      "teams": []
+    },
+    {
+      "id": "sp_186",
+      "name": "Vaterpolo 186",
+      "teams": [
+        {
+          "id": "tm_72",
+          "name": "Team Alpha 72",
+          "countryId": "ct_74",
+          "sportId": "sp_186"
+        },
+        {
+          "id": "tm_178",
+          "name": "Team Alpha 178",
+          "countryId": "ct_53",
+          "sportId": "sp_186"
+        }
+      ]
+    },
+    {
+      "id": "sp_187",
+      "name": "Plivanje 187",
+      "teams": []
+    },
+    {
+      "id": "sp_188",
+      "name": "Atletika 188",
+      "teams": [
+        {
+          "id": "tm_124",
+          "name": "Team Alpha 124",
+          "countryId": "ct_41",
+          "sportId": "sp_188"
+        }
+      ]
+    },
+    {
+      "id": "sp_189",
+      "name": "Boks 189",
+      "teams": [
+        {
+          "id": "tm_176",
+          "name": "Team Alpha 176",
+          "countryId": "ct_118",
+          "sportId": "sp_189"
+        }
+      ]
+    },
+    {
+      "id": "sp_190",
+      "name": "Ski skokovi 190",
+      "teams": [
+        {
+          "id": "tm_94",
+          "name": "Team Alpha 94",
+          "countryId": "ct_160",
+          "sportId": "sp_190"
+        }
+      ]
+    },
+    {
+      "id": "sp_191",
+      "name": "Nogomet 191",
+      "teams": []
+    },
+    {
+      "id": "sp_192",
+      "name": "Košarka 192",
+      "teams": [
+        {
+          "id": "tm_137",
+          "name": "Team Alpha 137",
+          "countryId": "ct_27",
+          "sportId": "sp_192"
+        }
+      ]
+    },
+    {
+      "id": "sp_193",
+      "name": "Tenis 193",
+      "teams": [
+        {
+          "id": "tm_101",
+          "name": "Team Alpha 101",
+          "countryId": "ct_93",
+          "sportId": "sp_193"
+        }
+      ]
+    },
+    {
+      "id": "sp_194",
+      "name": "Rukomet 194",
+      "teams": []
+    },
+    {
+      "id": "sp_195",
+      "name": "Odbojka 195",
+      "teams": [
+        {
+          "id": "tm_17",
+          "name": "Team Alpha 17",
+          "countryId": "ct_57",
+          "sportId": "sp_195"
+        }
+      ]
+    },
+    {
+      "id": "sp_196",
+      "name": "Vaterpolo 196",
+      "teams": [
+        {
+          "id": "tm_173",
+          "name": "Team Alpha 173",
+          "countryId": "ct_123",
+          "sportId": "sp_196"
+        },
+        {
+          "id": "tm_174",
+          "name": "Team Alpha 174",
+          "countryId": "ct_177",
+          "sportId": "sp_196"
+        }
+      ]
+    },
+    {
+      "id": "sp_197",
+      "name": "Plivanje 197",
+      "teams": [
+        {
+          "id": "tm_93",
+          "name": "Team Alpha 93",
+          "countryId": "ct_13",
+          "sportId": "sp_197"
+        }
+      ]
+    },
+    {
+      "id": "sp_198",
+      "name": "Atletika 198",
+      "teams": [
+        {
+          "id": "tm_193",
+          "name": "Team Alpha 193",
+          "countryId": "ct_113",
+          "sportId": "sp_198"
+        }
+      ]
+    },
+    {
+      "id": "sp_199",
+      "name": "Boks 199",
+      "teams": [
+        {
+          "id": "tm_18",
+          "name": "Team Alpha 18",
+          "countryId": "ct_150",
+          "sportId": "sp_199"
+        }
+      ]
+    },
+    {
+      "id": "sp_200",
+      "name": "Ski skokovi 200",
+      "teams": [
+        {
+          "id": "tm_108",
+          "name": "Team Alpha 108",
+          "countryId": "ct_82",
+          "sportId": "sp_200"
+        }
+      ]
+    }
+  ],
+  "teams": [
+    {
+      "id": "tm_1",
+      "name": "Team Alpha 1",
+      "countryId": "ct_161",
+      "sportId": "sp_130"
+    },
+    {
+      "id": "tm_2",
+      "name": "Team Alpha 2",
+      "countryId": "ct_165",
+      "sportId": "sp_57"
+    },
+    {
+      "id": "tm_3",
+      "name": "Team Alpha 3",
+      "countryId": "ct_103",
+      "sportId": "sp_26"
+    },
+    {
+      "id": "tm_4",
+      "name": "Team Alpha 4",
+      "countryId": "ct_122",
+      "sportId": "sp_152"
+    },
+    {
+      "id": "tm_5",
+      "name": "Team Alpha 5",
+      "countryId": "ct_73",
+      "sportId": "sp_142"
+    },
+    {
+      "id": "tm_6",
+      "name": "Team Alpha 6",
+      "countryId": "ct_28",
+      "sportId": "sp_142"
+    },
+    {
+      "id": "tm_7",
+      "name": "Team Alpha 7",
+      "countryId": "ct_191",
+      "sportId": "sp_93"
+    },
+    {
+      "id": "tm_8",
+      "name": "Team Alpha 8",
+      "countryId": "ct_195",
+      "sportId": "sp_170"
+    },
+    {
+      "id": "tm_9",
+      "name": "Team Alpha 9",
+      "countryId": "ct_189",
+      "sportId": "sp_122"
+    },
+    {
+      "id": "tm_10",
+      "name": "Team Alpha 10",
+      "countryId": "ct_95",
+      "sportId": "sp_5"
+    },
+    {
+      "id": "tm_11",
+      "name": "Team Alpha 11",
+      "countryId": "ct_128",
+      "sportId": "sp_154"
+    },
+    {
+      "id": "tm_12",
+      "name": "Team Alpha 12",
+      "countryId": "ct_167",
+      "sportId": "sp_41"
+    },
+    {
+      "id": "tm_13",
+      "name": "Team Alpha 13",
+      "countryId": "ct_166",
+      "sportId": "sp_162"
+    },
+    {
+      "id": "tm_14",
+      "name": "Team Alpha 14",
+      "countryId": "ct_117",
+      "sportId": "sp_64"
+    },
+    {
+      "id": "tm_15",
+      "name": "Team Alpha 15",
+      "countryId": "ct_193",
+      "sportId": "sp_164"
+    },
+    {
+      "id": "tm_16",
+      "name": "Team Alpha 16",
+      "countryId": "ct_57",
+      "sportId": "sp_49"
+    },
+    {
+      "id": "tm_17",
+      "name": "Team Alpha 17",
+      "countryId": "ct_57",
+      "sportId": "sp_195"
+    },
+    {
+      "id": "tm_18",
+      "name": "Team Alpha 18",
+      "countryId": "ct_150",
+      "sportId": "sp_199"
+    },
+    {
+      "id": "tm_19",
+      "name": "Team Alpha 19",
+      "countryId": "ct_1",
+      "sportId": "sp_59"
+    },
+    {
+      "id": "tm_20",
+      "name": "Team Alpha 20",
+      "countryId": "ct_44",
+      "sportId": "sp_79"
+    },
+    {
+      "id": "tm_21",
+      "name": "Team Alpha 21",
+      "countryId": "ct_52",
+      "sportId": "sp_73"
+    },
+    {
+      "id": "tm_22",
+      "name": "Team Alpha 22",
+      "countryId": "ct_168",
+      "sportId": "sp_81"
+    },
+    {
+      "id": "tm_23",
+      "name": "Team Alpha 23",
+      "countryId": "ct_184",
+      "sportId": "sp_92"
+    },
+    {
+      "id": "tm_24",
+      "name": "Team Alpha 24",
+      "countryId": "ct_49",
+      "sportId": "sp_52"
+    },
+    {
+      "id": "tm_25",
+      "name": "Team Alpha 25",
+      "countryId": "ct_101",
+      "sportId": "sp_84"
+    },
+    {
+      "id": "tm_26",
+      "name": "Team Alpha 26",
+      "countryId": "ct_71",
+      "sportId": "sp_27"
+    },
+    {
+      "id": "tm_27",
+      "name": "Team Alpha 27",
+      "countryId": "ct_177",
+      "sportId": "sp_148"
+    },
+    {
+      "id": "tm_28",
+      "name": "Team Alpha 28",
+      "countryId": "ct_145",
+      "sportId": "sp_117"
+    },
+    {
+      "id": "tm_29",
+      "name": "Team Alpha 29",
+      "countryId": "ct_193",
+      "sportId": "sp_11"
+    },
+    {
+      "id": "tm_30",
+      "name": "Team Alpha 30",
+      "countryId": "ct_94",
+      "sportId": "sp_135"
+    },
+    {
+      "id": "tm_31",
+      "name": "Team Alpha 31",
+      "countryId": "ct_104",
+      "sportId": "sp_132"
+    },
+    {
+      "id": "tm_32",
+      "name": "Team Alpha 32",
+      "countryId": "ct_138",
+      "sportId": "sp_16"
+    },
+    {
+      "id": "tm_33",
+      "name": "Team Alpha 33",
+      "countryId": "ct_193",
+      "sportId": "sp_72"
+    },
+    {
+      "id": "tm_34",
+      "name": "Team Alpha 34",
+      "countryId": "ct_103",
+      "sportId": "sp_101"
+    },
+    {
+      "id": "tm_35",
+      "name": "Team Alpha 35",
+      "countryId": "ct_1",
+      "sportId": "sp_67"
+    },
+    {
+      "id": "tm_36",
+      "name": "Team Alpha 36",
+      "countryId": "ct_111",
+      "sportId": "sp_92"
+    },
+    {
+      "id": "tm_37",
+      "name": "Team Alpha 37",
+      "countryId": "ct_160",
+      "sportId": "sp_161"
+    },
+    {
+      "id": "tm_38",
+      "name": "Team Alpha 38",
+      "countryId": "ct_128",
+      "sportId": "sp_169"
+    },
+    {
+      "id": "tm_39",
+      "name": "Team Alpha 39",
+      "countryId": "ct_58",
+      "sportId": "sp_179"
+    },
+    {
+      "id": "tm_40",
+      "name": "Team Alpha 40",
+      "countryId": "ct_86",
+      "sportId": "sp_136"
+    },
+    {
+      "id": "tm_41",
+      "name": "Team Alpha 41",
+      "countryId": "ct_70",
+      "sportId": "sp_137"
+    },
+    {
+      "id": "tm_42",
+      "name": "Team Alpha 42",
+      "countryId": "ct_95",
+      "sportId": "sp_28"
+    },
+    {
+      "id": "tm_43",
+      "name": "Team Alpha 43",
+      "countryId": "ct_150",
+      "sportId": "sp_111"
+    },
+    {
+      "id": "tm_44",
+      "name": "Team Alpha 44",
+      "countryId": "ct_104",
+      "sportId": "sp_99"
+    },
+    {
+      "id": "tm_45",
+      "name": "Team Alpha 45",
+      "countryId": "ct_195",
+      "sportId": "sp_64"
+    },
+    {
+      "id": "tm_46",
+      "name": "Team Alpha 46",
+      "countryId": "ct_177",
+      "sportId": "sp_129"
+    },
+    {
+      "id": "tm_47",
+      "name": "Team Alpha 47",
+      "countryId": "ct_14",
+      "sportId": "sp_103"
+    },
+    {
+      "id": "tm_48",
+      "name": "Team Alpha 48",
+      "countryId": "ct_145",
+      "sportId": "sp_137"
+    },
+    {
+      "id": "tm_49",
+      "name": "Team Alpha 49",
+      "countryId": "ct_63",
+      "sportId": "sp_21"
+    },
+    {
+      "id": "tm_50",
+      "name": "Team Alpha 50",
+      "countryId": "ct_192",
+      "sportId": "sp_16"
+    },
+    {
+      "id": "tm_51",
+      "name": "Team Alpha 51",
+      "countryId": "ct_22",
+      "sportId": "sp_29"
+    },
+    {
+      "id": "tm_52",
+      "name": "Team Alpha 52",
+      "countryId": "ct_2",
+      "sportId": "sp_84"
+    },
+    {
+      "id": "tm_53",
+      "name": "Team Alpha 53",
+      "countryId": "ct_48",
+      "sportId": "sp_57"
+    },
+    {
+      "id": "tm_54",
+      "name": "Team Alpha 54",
+      "countryId": "ct_12",
+      "sportId": "sp_40"
+    },
+    {
+      "id": "tm_55",
+      "name": "Team Alpha 55",
+      "countryId": "ct_174",
+      "sportId": "sp_166"
+    },
+    {
+      "id": "tm_56",
+      "name": "Team Alpha 56",
+      "countryId": "ct_48",
+      "sportId": "sp_117"
+    },
+    {
+      "id": "tm_57",
+      "name": "Team Alpha 57",
+      "countryId": "ct_193",
+      "sportId": "sp_109"
+    },
+    {
+      "id": "tm_58",
+      "name": "Team Alpha 58",
+      "countryId": "ct_139",
+      "sportId": "sp_1"
+    },
+    {
+      "id": "tm_59",
+      "name": "Team Alpha 59",
+      "countryId": "ct_82",
+      "sportId": "sp_6"
+    },
+    {
+      "id": "tm_60",
+      "name": "Team Alpha 60",
+      "countryId": "ct_69",
+      "sportId": "sp_98"
+    },
+    {
+      "id": "tm_61",
+      "name": "Team Alpha 61",
+      "countryId": "ct_166",
+      "sportId": "sp_150"
+    },
+    {
+      "id": "tm_62",
+      "name": "Team Alpha 62",
+      "countryId": "ct_6",
+      "sportId": "sp_85"
+    },
+    {
+      "id": "tm_63",
+      "name": "Team Alpha 63",
+      "countryId": "ct_72",
+      "sportId": "sp_21"
+    },
+    {
+      "id": "tm_64",
+      "name": "Team Alpha 64",
+      "countryId": "ct_142",
+      "sportId": "sp_104"
+    },
+    {
+      "id": "tm_65",
+      "name": "Team Alpha 65",
+      "countryId": "ct_154",
+      "sportId": "sp_101"
+    },
+    {
+      "id": "tm_66",
+      "name": "Team Alpha 66",
+      "countryId": "ct_189",
+      "sportId": "sp_76"
+    },
+    {
+      "id": "tm_67",
+      "name": "Team Alpha 67",
+      "countryId": "ct_177",
+      "sportId": "sp_4"
+    },
+    {
+      "id": "tm_68",
+      "name": "Team Alpha 68",
+      "countryId": "ct_133",
+      "sportId": "sp_115"
+    },
+    {
+      "id": "tm_69",
+      "name": "Team Alpha 69",
+      "countryId": "ct_33",
+      "sportId": "sp_159"
+    },
+    {
+      "id": "tm_70",
+      "name": "Team Alpha 70",
+      "countryId": "ct_125",
+      "sportId": "sp_45"
+    },
+    {
+      "id": "tm_71",
+      "name": "Team Alpha 71",
+      "countryId": "ct_63",
+      "sportId": "sp_28"
+    },
+    {
+      "id": "tm_72",
+      "name": "Team Alpha 72",
+      "countryId": "ct_74",
+      "sportId": "sp_186"
+    },
+    {
+      "id": "tm_73",
+      "name": "Team Alpha 73",
+      "countryId": "ct_112",
+      "sportId": "sp_89"
+    },
+    {
+      "id": "tm_74",
+      "name": "Team Alpha 74",
+      "countryId": "ct_159",
+      "sportId": "sp_183"
+    },
+    {
+      "id": "tm_75",
+      "name": "Team Alpha 75",
+      "countryId": "ct_71",
+      "sportId": "sp_67"
+    },
+    {
+      "id": "tm_76",
+      "name": "Team Alpha 76",
+      "countryId": "ct_129",
+      "sportId": "sp_102"
+    },
+    {
+      "id": "tm_77",
+      "name": "Team Alpha 77",
+      "countryId": "ct_127",
+      "sportId": "sp_145"
+    },
+    {
+      "id": "tm_78",
+      "name": "Team Alpha 78",
+      "countryId": "ct_139",
+      "sportId": "sp_109"
+    },
+    {
+      "id": "tm_79",
+      "name": "Team Alpha 79",
+      "countryId": "ct_35",
+      "sportId": "sp_112"
+    },
+    {
+      "id": "tm_80",
+      "name": "Team Alpha 80",
+      "countryId": "ct_70",
+      "sportId": "sp_160"
+    },
+    {
+      "id": "tm_81",
+      "name": "Team Alpha 81",
+      "countryId": "ct_72",
+      "sportId": "sp_110"
+    },
+    {
+      "id": "tm_82",
+      "name": "Team Alpha 82",
+      "countryId": "ct_134",
+      "sportId": "sp_168"
+    },
+    {
+      "id": "tm_83",
+      "name": "Team Alpha 83",
+      "countryId": "ct_101",
+      "sportId": "sp_74"
+    },
+    {
+      "id": "tm_84",
+      "name": "Team Alpha 84",
+      "countryId": "ct_105",
+      "sportId": "sp_172"
+    },
+    {
+      "id": "tm_85",
+      "name": "Team Alpha 85",
+      "countryId": "ct_93",
+      "sportId": "sp_129"
+    },
+    {
+      "id": "tm_86",
+      "name": "Team Alpha 86",
+      "countryId": "ct_131",
+      "sportId": "sp_25"
+    },
+    {
+      "id": "tm_87",
+      "name": "Team Alpha 87",
+      "countryId": "ct_191",
+      "sportId": "sp_98"
+    },
+    {
+      "id": "tm_88",
+      "name": "Team Alpha 88",
+      "countryId": "ct_4",
+      "sportId": "sp_85"
+    },
+    {
+      "id": "tm_89",
+      "name": "Team Alpha 89",
+      "countryId": "ct_4",
+      "sportId": "sp_72"
+    },
+    {
+      "id": "tm_90",
+      "name": "Team Alpha 90",
+      "countryId": "ct_199",
+      "sportId": "sp_150"
+    },
+    {
+      "id": "tm_91",
+      "name": "Team Alpha 91",
+      "countryId": "ct_60",
+      "sportId": "sp_130"
+    },
+    {
+      "id": "tm_92",
+      "name": "Team Alpha 92",
+      "countryId": "ct_81",
+      "sportId": "sp_137"
+    },
+    {
+      "id": "tm_93",
+      "name": "Team Alpha 93",
+      "countryId": "ct_13",
+      "sportId": "sp_197"
+    },
+    {
+      "id": "tm_94",
+      "name": "Team Alpha 94",
+      "countryId": "ct_160",
+      "sportId": "sp_190"
+    },
+    {
+      "id": "tm_95",
+      "name": "Team Alpha 95",
+      "countryId": "ct_136",
+      "sportId": "sp_180"
+    },
+    {
+      "id": "tm_96",
+      "name": "Team Alpha 96",
+      "countryId": "ct_86",
+      "sportId": "sp_136"
+    },
+    {
+      "id": "tm_97",
+      "name": "Team Alpha 97",
+      "countryId": "ct_36",
+      "sportId": "sp_174"
+    },
+    {
+      "id": "tm_98",
+      "name": "Team Alpha 98",
+      "countryId": "ct_116",
+      "sportId": "sp_60"
+    },
+    {
+      "id": "tm_99",
+      "name": "Team Alpha 99",
+      "countryId": "ct_121",
+      "sportId": "sp_133"
+    },
+    {
+      "id": "tm_100",
+      "name": "Team Alpha 100",
+      "countryId": "ct_27",
+      "sportId": "sp_160"
+    },
+    {
+      "id": "tm_101",
+      "name": "Team Alpha 101",
+      "countryId": "ct_93",
+      "sportId": "sp_193"
+    },
+    {
+      "id": "tm_102",
+      "name": "Team Alpha 102",
+      "countryId": "ct_88",
+      "sportId": "sp_3"
+    },
+    {
+      "id": "tm_103",
+      "name": "Team Alpha 103",
+      "countryId": "ct_180",
+      "sportId": "sp_50"
+    },
+    {
+      "id": "tm_104",
+      "name": "Team Alpha 104",
+      "countryId": "ct_44",
+      "sportId": "sp_17"
+    },
+    {
+      "id": "tm_105",
+      "name": "Team Alpha 105",
+      "countryId": "ct_28",
+      "sportId": "sp_158"
+    },
+    {
+      "id": "tm_106",
+      "name": "Team Alpha 106",
+      "countryId": "ct_35",
+      "sportId": "sp_113"
+    },
+    {
+      "id": "tm_107",
+      "name": "Team Alpha 107",
+      "countryId": "ct_170",
+      "sportId": "sp_68"
+    },
+    {
+      "id": "tm_108",
+      "name": "Team Alpha 108",
+      "countryId": "ct_82",
+      "sportId": "sp_200"
+    },
+    {
+      "id": "tm_109",
+      "name": "Team Alpha 109",
+      "countryId": "ct_8",
+      "sportId": "sp_96"
+    },
+    {
+      "id": "tm_110",
+      "name": "Team Alpha 110",
+      "countryId": "ct_135",
+      "sportId": "sp_181"
+    },
+    {
+      "id": "tm_111",
+      "name": "Team Alpha 111",
+      "countryId": "ct_107",
+      "sportId": "sp_150"
+    },
+    {
+      "id": "tm_112",
+      "name": "Team Alpha 112",
+      "countryId": "ct_67",
+      "sportId": "sp_103"
+    },
+    {
+      "id": "tm_113",
+      "name": "Team Alpha 113",
+      "countryId": "ct_108",
+      "sportId": "sp_83"
+    },
+    {
+      "id": "tm_114",
+      "name": "Team Alpha 114",
+      "countryId": "ct_42",
+      "sportId": "sp_93"
+    },
+    {
+      "id": "tm_115",
+      "name": "Team Alpha 115",
+      "countryId": "ct_20",
+      "sportId": "sp_8"
+    },
+    {
+      "id": "tm_116",
+      "name": "Team Alpha 116",
+      "countryId": "ct_102",
+      "sportId": "sp_2"
+    },
+    {
+      "id": "tm_117",
+      "name": "Team Alpha 117",
+      "countryId": "ct_57",
+      "sportId": "sp_168"
+    },
+    {
+      "id": "tm_118",
+      "name": "Team Alpha 118",
+      "countryId": "ct_57",
+      "sportId": "sp_97"
+    },
+    {
+      "id": "tm_119",
+      "name": "Team Alpha 119",
+      "countryId": "ct_19",
+      "sportId": "sp_92"
+    },
+    {
+      "id": "tm_120",
+      "name": "Team Alpha 120",
+      "countryId": "ct_139",
+      "sportId": "sp_131"
+    },
+    {
+      "id": "tm_121",
+      "name": "Team Alpha 121",
+      "countryId": "ct_170",
+      "sportId": "sp_76"
+    },
+    {
+      "id": "tm_122",
+      "name": "Team Alpha 122",
+      "countryId": "ct_143",
+      "sportId": "sp_74"
+    },
+    {
+      "id": "tm_123",
+      "name": "Team Alpha 123",
+      "countryId": "ct_151",
+      "sportId": "sp_106"
+    },
+    {
+      "id": "tm_124",
+      "name": "Team Alpha 124",
+      "countryId": "ct_41",
+      "sportId": "sp_188"
+    },
+    {
+      "id": "tm_125",
+      "name": "Team Alpha 125",
+      "countryId": "ct_70",
+      "sportId": "sp_93"
+    },
+    {
+      "id": "tm_126",
+      "name": "Team Alpha 126",
+      "countryId": "ct_85",
+      "sportId": "sp_67"
+    },
+    {
+      "id": "tm_127",
+      "name": "Team Alpha 127",
+      "countryId": "ct_188",
+      "sportId": "sp_85"
+    },
+    {
+      "id": "tm_128",
+      "name": "Team Alpha 128",
+      "countryId": "ct_101",
+      "sportId": "sp_51"
+    },
+    {
+      "id": "tm_129",
+      "name": "Team Alpha 129",
+      "countryId": "ct_103",
+      "sportId": "sp_181"
+    },
+    {
+      "id": "tm_130",
+      "name": "Team Alpha 130",
+      "countryId": "ct_132",
+      "sportId": "sp_44"
+    },
+    {
+      "id": "tm_131",
+      "name": "Team Alpha 131",
+      "countryId": "ct_176",
+      "sportId": "sp_19"
+    },
+    {
+      "id": "tm_132",
+      "name": "Team Alpha 132",
+      "countryId": "ct_4",
+      "sportId": "sp_87"
+    },
+    {
+      "id": "tm_133",
+      "name": "Team Alpha 133",
+      "countryId": "ct_24",
+      "sportId": "sp_118"
+    },
+    {
+      "id": "tm_134",
+      "name": "Team Alpha 134",
+      "countryId": "ct_47",
+      "sportId": "sp_95"
+    },
+    {
+      "id": "tm_135",
+      "name": "Team Alpha 135",
+      "countryId": "ct_198",
+      "sportId": "sp_139"
+    },
+    {
+      "id": "tm_136",
+      "name": "Team Alpha 136",
+      "countryId": "ct_168",
+      "sportId": "sp_142"
+    },
+    {
+      "id": "tm_137",
+      "name": "Team Alpha 137",
+      "countryId": "ct_27",
+      "sportId": "sp_192"
+    },
+    {
+      "id": "tm_138",
+      "name": "Team Alpha 138",
+      "countryId": "ct_102",
+      "sportId": "sp_106"
+    },
+    {
+      "id": "tm_139",
+      "name": "Team Alpha 139",
+      "countryId": "ct_84",
+      "sportId": "sp_125"
+    },
+    {
+      "id": "tm_140",
+      "name": "Team Alpha 140",
+      "countryId": "ct_25",
+      "sportId": "sp_110"
+    },
+    {
+      "id": "tm_141",
+      "name": "Team Alpha 141",
+      "countryId": "ct_126",
+      "sportId": "sp_55"
+    },
+    {
+      "id": "tm_142",
+      "name": "Team Alpha 142",
+      "countryId": "ct_179",
+      "sportId": "sp_97"
+    },
+    {
+      "id": "tm_143",
+      "name": "Team Alpha 143",
+      "countryId": "ct_107",
+      "sportId": "sp_161"
+    },
+    {
+      "id": "tm_144",
+      "name": "Team Alpha 144",
+      "countryId": "ct_117",
+      "sportId": "sp_90"
+    },
+    {
+      "id": "tm_145",
+      "name": "Team Alpha 145",
+      "countryId": "ct_127",
+      "sportId": "sp_87"
+    },
+    {
+      "id": "tm_146",
+      "name": "Team Alpha 146",
+      "countryId": "ct_54",
+      "sportId": "sp_105"
+    },
+    {
+      "id": "tm_147",
+      "name": "Team Alpha 147",
+      "countryId": "ct_197",
+      "sportId": "sp_147"
+    },
+    {
+      "id": "tm_148",
+      "name": "Team Alpha 148",
+      "countryId": "ct_81",
+      "sportId": "sp_154"
+    },
+    {
+      "id": "tm_149",
+      "name": "Team Alpha 149",
+      "countryId": "ct_95",
+      "sportId": "sp_7"
+    },
+    {
+      "id": "tm_150",
+      "name": "Team Alpha 150",
+      "countryId": "ct_167",
+      "sportId": "sp_64"
+    },
+    {
+      "id": "tm_151",
+      "name": "Team Alpha 151",
+      "countryId": "ct_9",
+      "sportId": "sp_143"
+    },
+    {
+      "id": "tm_152",
+      "name": "Team Alpha 152",
+      "countryId": "ct_87",
+      "sportId": "sp_175"
+    },
+    {
+      "id": "tm_153",
+      "name": "Team Alpha 153",
+      "countryId": "ct_69",
+      "sportId": "sp_34"
+    },
+    {
+      "id": "tm_154",
+      "name": "Team Alpha 154",
+      "countryId": "ct_41",
+      "sportId": "sp_100"
+    },
+    {
+      "id": "tm_155",
+      "name": "Team Alpha 155",
+      "countryId": "ct_140",
+      "sportId": "sp_96"
+    },
+    {
+      "id": "tm_156",
+      "name": "Team Alpha 156",
+      "countryId": "ct_177",
+      "sportId": "sp_22"
+    },
+    {
+      "id": "tm_157",
+      "name": "Team Alpha 157",
+      "countryId": "ct_92",
+      "sportId": "sp_28"
+    },
+    {
+      "id": "tm_158",
+      "name": "Team Alpha 158",
+      "countryId": "ct_14",
+      "sportId": "sp_111"
+    },
+    {
+      "id": "tm_159",
+      "name": "Team Alpha 159",
+      "countryId": "ct_67",
+      "sportId": "sp_110"
+    },
+    {
+      "id": "tm_160",
+      "name": "Team Alpha 160",
+      "countryId": "ct_56",
+      "sportId": "sp_60"
+    },
+    {
+      "id": "tm_161",
+      "name": "Team Alpha 161",
+      "countryId": "ct_120",
+      "sportId": "sp_164"
+    },
+    {
+      "id": "tm_162",
+      "name": "Team Alpha 162",
+      "countryId": "ct_142",
+      "sportId": "sp_11"
+    },
+    {
+      "id": "tm_163",
+      "name": "Team Alpha 163",
+      "countryId": "ct_66",
+      "sportId": "sp_24"
+    },
+    {
+      "id": "tm_164",
+      "name": "Team Alpha 164",
+      "countryId": "ct_169",
+      "sportId": "sp_159"
+    },
+    {
+      "id": "tm_165",
+      "name": "Team Alpha 165",
+      "countryId": "ct_193",
+      "sportId": "sp_61"
+    },
+    {
+      "id": "tm_166",
+      "name": "Team Alpha 166",
+      "countryId": "ct_7",
+      "sportId": "sp_35"
+    },
+    {
+      "id": "tm_167",
+      "name": "Team Alpha 167",
+      "countryId": "ct_105",
+      "sportId": "sp_92"
+    },
+    {
+      "id": "tm_168",
+      "name": "Team Alpha 168",
+      "countryId": "ct_10",
+      "sportId": "sp_155"
+    },
+    {
+      "id": "tm_169",
+      "name": "Team Alpha 169",
+      "countryId": "ct_186",
+      "sportId": "sp_59"
+    },
+    {
+      "id": "tm_170",
+      "name": "Team Alpha 170",
+      "countryId": "ct_189",
+      "sportId": "sp_68"
+    },
+    {
+      "id": "tm_171",
+      "name": "Team Alpha 171",
+      "countryId": "ct_5",
+      "sportId": "sp_155"
+    },
+    {
+      "id": "tm_172",
+      "name": "Team Alpha 172",
+      "countryId": "ct_107",
+      "sportId": "sp_114"
+    },
+    {
+      "id": "tm_173",
+      "name": "Team Alpha 173",
+      "countryId": "ct_123",
+      "sportId": "sp_196"
+    },
+    {
+      "id": "tm_174",
+      "name": "Team Alpha 174",
+      "countryId": "ct_177",
+      "sportId": "sp_196"
+    },
+    {
+      "id": "tm_175",
+      "name": "Team Alpha 175",
+      "countryId": "ct_148",
+      "sportId": "sp_26"
+    },
+    {
+      "id": "tm_176",
+      "name": "Team Alpha 176",
+      "countryId": "ct_118",
+      "sportId": "sp_189"
+    },
+    {
+      "id": "tm_177",
+      "name": "Team Alpha 177",
+      "countryId": "ct_173",
+      "sportId": "sp_154"
+    },
+    {
+      "id": "tm_178",
+      "name": "Team Alpha 178",
+      "countryId": "ct_53",
+      "sportId": "sp_186"
+    },
+    {
+      "id": "tm_179",
+      "name": "Team Alpha 179",
+      "countryId": "ct_109",
+      "sportId": "sp_146"
+    },
+    {
+      "id": "tm_180",
+      "name": "Team Alpha 180",
+      "countryId": "ct_43",
+      "sportId": "sp_119"
+    },
+    {
+      "id": "tm_181",
+      "name": "Team Alpha 181",
+      "countryId": "ct_166",
+      "sportId": "sp_90"
+    },
+    {
+      "id": "tm_182",
+      "name": "Team Alpha 182",
+      "countryId": "ct_123",
+      "sportId": "sp_26"
+    },
+    {
+      "id": "tm_183",
+      "name": "Team Alpha 183",
+      "countryId": "ct_107",
+      "sportId": "sp_31"
+    },
+    {
+      "id": "tm_184",
+      "name": "Team Alpha 184",
+      "countryId": "ct_63",
+      "sportId": "sp_49"
+    },
+    {
+      "id": "tm_185",
+      "name": "Team Alpha 185",
+      "countryId": "ct_91",
+      "sportId": "sp_109"
+    },
+    {
+      "id": "tm_186",
+      "name": "Team Alpha 186",
+      "countryId": "ct_40",
+      "sportId": "sp_31"
+    },
+    {
+      "id": "tm_187",
+      "name": "Team Alpha 187",
+      "countryId": "ct_44",
+      "sportId": "sp_34"
+    },
+    {
+      "id": "tm_188",
+      "name": "Team Alpha 188",
+      "countryId": "ct_87",
+      "sportId": "sp_138"
+    },
+    {
+      "id": "tm_189",
+      "name": "Team Alpha 189",
+      "countryId": "ct_175",
+      "sportId": "sp_51"
+    },
+    {
+      "id": "tm_190",
+      "name": "Team Alpha 190",
+      "countryId": "ct_25",
+      "sportId": "sp_77"
+    },
+    {
+      "id": "tm_191",
+      "name": "Team Alpha 191",
+      "countryId": "ct_185",
+      "sportId": "sp_33"
+    },
+    {
+      "id": "tm_192",
+      "name": "Team Alpha 192",
+      "countryId": "ct_38",
+      "sportId": "sp_49"
+    },
+    {
+      "id": "tm_193",
+      "name": "Team Alpha 193",
+      "countryId": "ct_113",
+      "sportId": "sp_198"
+    },
+    {
+      "id": "tm_194",
+      "name": "Team Alpha 194",
+      "countryId": "ct_22",
+      "sportId": "sp_91"
+    },
+    {
+      "id": "tm_195",
+      "name": "Team Alpha 195",
+      "countryId": "ct_102",
+      "sportId": "sp_11"
+    },
+    {
+      "id": "tm_196",
+      "name": "Team Alpha 196",
+      "countryId": "ct_120",
+      "sportId": "sp_183"
+    },
+    {
+      "id": "tm_197",
+      "name": "Team Alpha 197",
+      "countryId": "ct_163",
+      "sportId": "sp_29"
+    },
+    {
+      "id": "tm_198",
+      "name": "Team Alpha 198",
+      "countryId": "ct_163",
+      "sportId": "sp_100"
+    },
+    {
+      "id": "tm_199",
+      "name": "Team Alpha 199",
+      "countryId": "ct_106",
+      "sportId": "sp_86"
+    },
+    {
+      "id": "tm_200",
+      "name": "Team Alpha 200",
+      "countryId": "ct_72",
+      "sportId": "sp_138"
+    }
+  ]
+}
