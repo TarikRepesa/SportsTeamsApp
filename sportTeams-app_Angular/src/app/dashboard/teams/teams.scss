@@ -1,0 +1,91 @@
+.filters-row {
+  display: flex;
+  gap: 10px;
+  width: 50%;
+}
+
+.filterTeamID {
+  flex: 0.5; 
+  min-width: 70px;
+}
+
+.filterTeamName,
+.filterTeamCoach {
+  flex: 1.5;
+}
+
+.filterTeamID,
+.filterTeamName,
+.filterTeamCoach {
+  padding: 10px 12px;
+  font-size: 14px;
+
+  border: 1.5px solid #d1d5db;
+  border-radius: 8px;
+  outline: none;
+
+  background-color: #f9fafb;
+  color: #111827;
+
+  transition: all 0.2s ease;
+}
+
+.filterTeamID::placeholder,
+.filterTeamName::placeholder,
+.filterTeamCoach::placeholder {
+  color: #9ca3af;
+}
+
+.filterTeamID:hover,
+.filterTeamName:hover,
+.filterTeamCoach:hover {
+  border-color: #9ca3af;
+}
+
+.filterTeamID:focus,
+.filterTeamName:focus,
+.filterTeamCoach:focus {
+  border-color: #1abc9c;
+  background-color: #ffffff;
+  box-shadow: 0 0 0 3px rgba(26, 188, 156, 0.2);
+}
+
+.filterTeamID:active,
+.filterTeamName:active,
+.filterTeamCoach:active {
+  transform: scale(0.995);
+}
+
+.spinner-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 200px;
+}
+
+.spinner {
+  width: 40px;
+  height: 40px;
+  border: 4px solid #e0e0e0;
+  border-top-color: #1abc9c;
+  border-radius: 50%;
+  animation: spin 0.5s linear infinite;  
+ }
+
+@keyframes spin {
+  to { transform: rotate(360deg); }
+}
+
+@media only screen and (max-width: 600px) {
+
+  .filters-row {
+    flex-direction: column;
+    width: 100%;
+  }
+
+  .filterTeamID,
+  .filterTeamName {
+    width: 100%;
+    box-sizing: border-box;
+  }
+}

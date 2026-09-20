@@ -1,0 +1,21 @@
+<header class="topbar">
+  <button class="menu-btn" (click)="toggleMenu()">☰</button>
+  <div class="logo">Sports Teams Manager</div>
+</header>
+
+<div class="container">
+
+  <aside class="sidebar" [class.open]="menuOpen">
+    <ul>
+      <li routerLink="/countries" routerLinkActive="active" (click)="menuOpen = false">Countries</li>
+      <li routerLink="/teams" routerLinkActive="active" (click)="menuOpen = false">Teams</li>
+      <li routerLink="/sports" routerLinkActive="active" (click)="menuOpen = false">Sports</li>
+    </ul>
+  </aside>
+  
+  <main class="content">
+    <div class="route-wrapper" [@routeAnim]="outlet.activatedRouteData['anim']">
+      <router-outlet #outlet="outlet"></router-outlet>
+    </div>
+  </main>
+</div>

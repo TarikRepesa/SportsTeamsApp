@@ -1,0 +1,24 @@
+<br><div class="tab">
+  <button
+    class="tablinks"
+    [class.active]="activeTab === 'teams'"
+    (click)="activeTab = 'teams'">
+    Teams
+  </button>
+
+  <button
+    class="tablinks"
+    [class.active]="activeTab === 'tab2'"
+    (click)="activeTab = 'tab2'">
+    Tab 2
+  </button>
+</div>
+
+<div class="tabcontent" *ngIf="activeTab === 'teams'">
+  <ng-container *ngTemplateOutlet="tab1Template" ></ng-container>
+</div>
+
+<div class="tabcontent" *ngIf="activeTab === 'tab2'">
+  <ng-container *ngTemplateOutlet="tab2Template"></ng-container>
+  <p>Tab 2 works</p>
+</div>

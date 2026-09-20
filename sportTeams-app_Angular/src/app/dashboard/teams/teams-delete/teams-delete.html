@@ -1,0 +1,27 @@
+<div *ngIf="showDelete" class="backdrop" (click)="close()">
+  <div class="detailsContainer" (click)="$event.stopPropagation()">
+
+    <div class="header deleteHeader">
+      <span>Delete</span>
+      <button class="closeBtn" (click)="close()">X</button>
+    </div>
+
+    <div class="content" *ngIf="item">
+      <p class="message">
+        Are you sure you want to delete <b>{{ item.name }}</b>?
+      </p>
+
+      <div class="actions">
+        <button class="noBtn" (click)="close()">NO</button>
+        <button class="yesBtn" (click)="confirmDelete()">YES</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<app-success-modal
+  *ngIf="showSuccess"
+  title="Success"
+  message="Team successfully deleted!"
+  (closed)="onSuccessClose()">
+</app-success-modal>

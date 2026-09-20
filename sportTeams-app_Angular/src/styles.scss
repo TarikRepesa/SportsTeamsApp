@@ -1,0 +1,67 @@
+.detailsPage {
+  width: 100%;
+  margin: 0;
+  border: 1px solid black;
+  border-radius: 0;
+  background: white;
+}
+
+.content {
+  padding: 20px;
+}
+
+.wrapper {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  column-gap: 16px;
+  align-items: start;
+}
+
+.leftDiv,
+.centerDiv,
+.rightDiv {
+  display: flex;
+  flex-direction: column;
+}
+
+.formGroup {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 15px;
+}
+
+.formGroup label {
+  margin-bottom: 5px;
+  font-weight: 500;
+}
+
+input {
+  padding: 8px;
+  font-size: 14px;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
+
+.actions {
+  margin-top: 20px;
+  display: flex;
+  justify-content: flex-end; 
+  gap: 10px; 
+}
+
+.actions button {
+  padding: 8px 16px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-weight: 500;
+}
+
+.actions button:hover {
+  opacity: 0.9;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}

@@ -1,0 +1,31 @@
+<div class="detailsPage" *ngIf="item">  
+  <div class="header">
+    <h2>{{ item.name }} Details</h2>
+  </div>
+  <div class="content">
+    <div class="fields">
+      <div>
+        <label>ID</label>
+        <input type="text" [value]="item.id" disabled>
+      </div>
+      <div>
+        <label>Name</label>
+        <input type="text" [value]="item.name" disabled>
+      </div>
+      <div>
+        <label>Code</label>
+        <input type="text" [value]="item.code" disabled>
+      </div>
+    </div>
+
+    <div class="actions">
+      <button (click)="goBack()">Back</button>
+    </div>
+  </div>
+</div>
+
+<app-tabs [tab1Template]="teamsTpl" [country]="item"></app-tabs>
+
+<ng-template #teamsTpl>
+  <app-teams [country]="item" [showCreateButton]="false"></app-teams>
+</ng-template>

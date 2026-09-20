@@ -1,0 +1,26 @@
+<div class="detailsPage" *ngIf="createForm">
+  <div class="header">
+    <h2>Create New Sport</h2>
+  </div>
+
+  <form [formGroup]="createForm">
+    <div class="fields">
+      <div>
+        <label>Name</label>
+        <input type="text" formControlName="name">
+      </div>
+    </div>
+
+    <div class="actions">
+      <button type="button" (click)="cancel()">Cancel</button>
+      <button type="button" (click)="save()">Save</button>
+    </div>
+  </form>
+</div>
+
+<app-success-modal
+  *ngIf="showSuccess"
+  title="Success"
+  message="Sport successfully created!"
+  (closed)="onSuccessClose()">
+</app-success-modal>

@@ -1,0 +1,17 @@
+<div class="filters-row" [formGroup]="filterForm">
+  <input class="filterCountryID" type="text" placeholder="Search by ID" formControlName="id">
+  <input class="filterCountryName" type="text" placeholder="Search by name" formControlName="name">
+</div>
+<br>
+
+<div *ngIf="loading" class="spinner-wrapper">
+  <div class="spinner"></div>
+</div>
+<br>
+
+<app-list-view 
+  *ngIf="countries.length > 0"
+  [inputNiz]="countries" 
+  [type]="'countries'"
+  (rowClicked)="onCountryClick($event)">
+</app-list-view>

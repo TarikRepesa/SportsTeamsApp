@@ -1,0 +1,89 @@
+.filters-row {
+  display: flex;
+  gap: 10px;
+  width: 50%;
+}
+
+.filterCountryID {
+  flex: 0.5; 
+  min-width: 70px;
+}
+
+.filterCountryName,
+.filterCountryCapital {
+  flex: 1.5;
+}
+
+.filterCountryID,
+.filterCountryName,
+.filterCountryCapital {
+  padding: 10px 12px;
+  font-size: 14px;
+
+  border: 1.5px solid #d1d5db;
+  border-radius: 8px;
+  outline: none;
+
+  background-color: #f9fafb;
+  color: #111827;
+
+  transition: all 0.2s ease;
+}
+
+.filterCountryID::placeholder,
+.filterCountryName::placeholder,
+.filterCountryCapital::placeholder {
+  color: #9ca3af;
+}
+
+.filterCountryID:hover,
+.filterCountryName:hover,
+.filterCountryCapital:hover {
+  border-color: #9ca3af;
+}
+
+.filterCountryID:focus,
+.filterCountryName:focus,
+.filterCountryCapital:focus {
+  border-color: #1abc9c;
+  background-color: #ffffff;
+  box-shadow: 0 0 0 3px rgba(26, 188, 156, 0.2);
+}
+
+.filterCountryID:active,
+.filterCountryName:active,
+.filterCountryCapital:active {
+  transform: scale(0.995);
+}
+
+.spinner-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 200px;
+}
+
+.spinner {
+  width: 40px;
+  height: 40px;
+  border: 4px solid #e0e0e0;
+  border-top-color: #1abc9c;
+  border-radius: 50%;
+  animation: spin 0.5s linear infinite;  
+}
+
+@keyframes spin {
+  to { transform: rotate(360deg); }
+}
+
+@media only screen and (max-width: 600px) {
+  .filters-row {
+    flex-direction: column;
+    width: 100%;
+  }
+
+  input {
+    width: 100%;
+    box-sizing: border-box;
+  }
+}

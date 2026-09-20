@@ -1,0 +1,17 @@
+<div class="filters-row" [formGroup]="filterForm">
+  <input class="filterSportID" type="text" placeholder="Search by ID" formControlName="id">
+  <input class="filterSportName" type="text" placeholder="Search by name" formControlName="name">
+</div>
+<br>
+
+<div *ngIf="loading" class="spinner-wrapper">
+  <div class="spinner"></div>
+</div>
+<br>
+
+<app-list-view
+  *ngIf="sports.length > 0"
+  [inputNiz]="sports"
+  [type]="'sports'"
+  (rowClicked)="onSportClick($event)">
+</app-list-view>

@@ -1,0 +1,67 @@
+.detailsPage {
+  max-width: 600px;
+  margin: 24px auto;
+}
+
+.header {
+  background-color: #3385ff;
+  color: white;
+  padding: 12px 20px;
+  font-weight: bold;
+
+  h2 {
+    margin: 0;
+    font-size: 18px;
+  }
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  padding: 24px 40px;
+
+  .fields {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+
+    div {
+      display: flex;
+      flex-direction: column;
+      gap: 4px;
+
+      label {
+        font-weight: 500;
+        font-size: 14px;
+      }
+
+      input {
+        padding: 8px 12px;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        font-size: 14px;
+
+        &:disabled {
+          background-color: #f5f5f5;
+          color: #999;
+        }
+      }
+    }
+  }
+
+  .actions {
+    display: flex;
+    justify-content: flex-end;
+
+    button {
+      padding: 8px 20px;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+      font-size: 14px;
+      background-color: #ccc;
+      color: #333;
+    }
+  }
+}

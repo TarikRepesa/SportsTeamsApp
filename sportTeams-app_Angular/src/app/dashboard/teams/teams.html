@@ -1,0 +1,18 @@
+<div class="filters-row" [formGroup]="filterForm">
+  <input class="filterTeamID" type="text" placeholder="Search by ID" formControlName="id">
+  <input class="filterTeamName" type="text" placeholder="Search by name" formControlName="name">
+</div>
+<br>
+
+<div *ngIf="loading" class="spinner-wrapper">
+  <div class="spinner"></div>
+</div>
+<br>
+
+<app-list-view
+  *ngIf="teams.length > 0"
+  [inputNiz]="teams"
+  [type]="'teams'"
+  (rowClicked)="onTeamClick($event)"
+  [showCreateButton]="showCreateButton">
+</app-list-view>

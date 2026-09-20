@@ -1,0 +1,20 @@
+<div class="backdrop" (click)="close()">
+  <div class="detailsContainer" (click)="$event.stopPropagation()">
+
+    <div class="header successHeader">
+      <span>{{ title }}</span>
+      <button class="closeBtn" (click)="close()">X</button>
+    </div>
+
+    <div class="content">
+      <p class="message">
+        {{ message }}
+      </p>
+
+      <div class="actions">
+        <button class="okBtn" (click)="close()">OK</button>
+      </div>
+    </div>
+
+  </div>
+</div>

@@ -1,0 +1,23 @@
+<div class="detailsPage" *ngIf="detailsForm">
+
+  <div class="header">
+    <h2>{{item.name}} Details</h2>
+  </div>
+
+  <form [formGroup]="detailsForm">
+    <div class="fields">
+      <div>
+        <label>ID</label>
+        <input type="text" [value]="item.id" disabled>
+      </div>
+      <div>
+        <label>Name</label>
+        <input type="text" formControlName="name">
+      </div>
+    </div>
+
+    <div class="actions">
+      <button type="button" (click)="goBack()">Back</button>
+    </div>
+  </form>
+</div>

@@ -1,0 +1,98 @@
+.backdrop {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background-color: rgba(0, 0, 0, 0.4);
+  backdrop-filter: blur(5px);           
+  display: flex;
+  justify-content: center;              
+  align-items: center;                  
+  z-index: 1000;                        
+}
+
+.detailsContainer {
+  width: 450px;
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+  overflow: hidden;
+
+  animation: fadeInAnimation 1.5s ease-out forwards;
+}
+
+.deleteHeader {
+  background-color: #ff0000;
+  color: white;
+  padding: 12px 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-weight: bold;
+}
+
+.closeBtn {
+  background: none;
+  border: none;
+  color: white;
+  font-size: 20px;
+  cursor: pointer;
+  transition: transform 0.2s;
+}
+
+.closeBtn:hover {
+  transform: scale(1.2);
+}
+
+.content {
+  padding: 20px;
+}
+
+.message {
+  margin-bottom: 20px;
+  font-size: 16px;
+}
+
+.actions {
+  display: flex;
+  justify-content: flex-end;
+  gap: 10px;
+}
+
+.yesBtn {
+  background-color: #ff0000;
+  color: white;
+  border: none;
+  padding: 8px 16px;
+  cursor: pointer;
+  border-radius: 4px;
+  transition: 0.2s;
+}
+
+.yesBtn:hover {
+  background-color: #a00505;
+}
+
+.noBtn {
+  background-color: #bdc3c7;
+  border: none;
+  padding: 8px 16px;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+.noBtn:hover {
+  background-color: #95a5a6;
+}
+
+@keyframes fadeInAnimation {
+  from {
+    opacity: 0;
+    transform: scale(0.9);
+  }  
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}

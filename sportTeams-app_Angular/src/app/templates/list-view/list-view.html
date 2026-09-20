@@ -1,0 +1,52 @@
+<div class="buttonsDiv">
+  <button class="createButton" (click)="goToCreate()" *ngIf="showCreateButton">Create</button>
+
+  <div class="rightSection" *ngIf="selectedRow">
+    <p class="nameProperty">{{selectedRow.name}}</p>
+    <div class="EditDetailsDeleteButtons">
+      <button class="detailsButton" (click)="goToDetails()">Details</button>
+      <button class="editButton" (click)="goToEdit()">Edit</button>
+      <button class="deleteButton" (click)="goToDelete()">Delete</button>
+    </div>
+  </div>
+</div>
+<br>
+
+<table class="styled-table" *ngIf="inputNiz && inputNiz.length > 0">
+  <thead>
+    <tr>
+      <th>ID</th>
+      <th>Name</th>
+      <th *ngIf="inputNiz[0]?.code">Code</th>
+      <th *ngIf="inputNiz[0]?.countryId">Country ID</th>
+      <th *ngIf="inputNiz[0]?.sportId">Sport ID</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let item of paginatedData" 
+        (click)="onRowClick(item)" 
+        [class.selected]="selectedRow === item">
+      <td>{{ item.id }}</td>
+      <td>{{ item.name }}</td>
+      <td *ngIf="inputNiz[0]?.code">{{ item.code }}</td>        
+      <td *ngIf="inputNiz[0]?.countryId">{{ item.countryId }}</td>
+      <td *ngIf="inputNiz[0]?.sportId">{{ item.sportId }}</td>
+    </tr>
+  </tbody>
+</table>
+
+<div class="pagination-container" *ngIf="inputNiz && inputNiz.length > 0">
+  <app-pagination 
+    [totalItems]="inputNiz.length" 
+    [itemsPerPage]="itemsPerPage" 
+    [currentPage]="currentPage" 
+    (pageChange)="onPageChange($event)">
+  </app-pagination>
+  
+  <div class="page-size-dropdown">
+    <label>Show: </label>
+    <select [(ngModel)]="itemsPerPage" (change)="onItemsPerPageChange()">
+      <option *ngFor="let size of pageSizes" [value]="size">{{ size }}</option>
+    </select>
+  </div>
+</div>
